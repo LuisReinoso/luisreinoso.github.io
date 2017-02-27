@@ -1,0 +1,72 @@
+---
+layout: default
+---
+
+<div id="home">
+    <h1>Ideario</h1>
+    <hr />
+    <ol class="posts">
+    {% for post in paginator.posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo;
+        <i><span>
+          {{ post.date | date: "%d" }}
+          {% assign m = post.date | date: "%-m"  %}
+          {% case m %}
+      							      {% when '1' %}Enero
+      							      {% when '2' %}Febrero
+      							      {% when '3' %}Marzo
+      							      {% when '4' %}Abril
+      							      {% when '5' %}Mayo
+      							      {% when '6' %}Junio
+      							      {% when '7' %}Julio
+      							      {% when '8' %}Agosto
+      							      {% when '9' %}Septiembre
+      							      {% when '10' %}Octubre
+      							      {% when '11' %}Noviembre
+      							      {% when '12' %}Diciembre
+          {% endcase %}
+        {{ post.date | date: "%Y" }}
+        </span></i>
+      </li>
+    {% endfor %}
+    </ol>
+
+    <!-- Pagination links -->
+    {% if paginator.total_pages > 1 %}
+    <ul class="pagination pagination-sm">
+      {% if paginator.previous_page %}
+        <li>
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a>
+        </li>
+      {% else %}
+        <li class="disabled"><span aria-hidden="true">&laquo;</span></li>
+      {% endif %}
+
+      <li><a href="/">Primero</a></li>
+
+      {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+          <li class="active">
+             <a>{{ page }}<span class="sr-only">(current)</span></a>
+          </li>
+        {% elsif page == 1 %}
+          <li><a href="/">{{ page }}</a></li>
+        {% else %}
+          <li>
+            <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+
+      <li><a href="/page{{ paginator.total_pages }}/">Último</a></li>
+
+      {% if paginator.next_page %}
+        <li>
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a>
+        </li>
+      {% else %}
+        <li class="disabled"><span>&raquo;</span></li>
+      {% endif %}
+    </ul>
+    {% endif %}
+</div><!-- end #home -->

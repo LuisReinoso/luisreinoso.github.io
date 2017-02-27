@@ -1,0 +1,51 @@
+title: Ideario
+description: Blog personal de Luis Reinoso
+author: Luis Reinoso
+github: https://github.com/luisreinoso
+about: Programador, software libre.
+disqus_shortname: ideario
+google_analytics: UA-XXXXXXXX-Y
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+  #  - icon: fa-facebook
+  #    link: "#"
+  #  - icon: fa-skype
+  #    link: "#"
+    - icon: fa-twitter
+      link: "https://twitter.com/lomejordejr"
+  #  - icon: fa-linkedin
+  #    link: "#"
+  #  - icon: fa-stack-exchange
+  #    link: "#"
+
+share:
+  twitter_username: lomejordejr
+  # fb_appid: 1749788565247320
+
+urls:
+    - text: Sobre mi
+      url: /about/
+    - text: Proyectos
+      url: /project/
+    - text: Github
+      url: https://github.com/luisreinoso
+    - text: Feed
+      url: /feed.xml
+
+url: "https://luisreinoso.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
