@@ -2,7 +2,8 @@
 layout: post
 title: "Sobre mapas"
 description: "Un repaso de temas referentes a GIS y proyecto bicivilizate"
-tags: [OpenStreetMap, Mapas]
+categories: [OpenStreetMap, mapas]
+tags: [OpenStreetMap, mapas]
 ---
 
 Últimamente he tenido en el olvido los mapas, así que ahora que estuve revisando algunos documentos me encontré con lo que hace tiempo pretendía organizar.

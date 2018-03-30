@@ -2,6 +2,7 @@
 layout: post
 title: "Migración a software libre progresiva"
 description: "Sorpresa al encontrar softaware libre en un subcentro de salud público"
+categories: [software libre]
 tags: [Software libre]
 ---
 
