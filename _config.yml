@@ -20,14 +20,14 @@ social:
   #  - icon: fa-skype
   #    link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/lomejordejr"
+      link: "https://twitter.com/luisreinosodev"
   #  - icon: fa-linkedin
   #    link: "#"
   #  - icon: fa-stack-exchange
   #    link: "#"
 
 share:
-  twitter_username: lomejordejr
+  twitter_username: luisreinosodev
   # fb_appid: 1749788565247320
 
 urls:
