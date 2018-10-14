@@ -21,6 +21,8 @@ social:
   #    link: "#"
      - icon: fa-twitter
        link: "https://twitter.com/luisreinosodev"
+     - icon: fa-github
+       link: "https://github.com/luisreinoso"
   #  - icon: fa-linkedin
   #    link: "#"
   #  - icon: fa-stack-exchange
