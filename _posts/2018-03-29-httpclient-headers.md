@@ -8,7 +8,7 @@ tags: [angular, http]
 
 Poner headers con el uso de HttpClient se realiza de la siguiente manera:
 
-```typescript
+{% highlight typescript linenos %}
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 
@@ -29,4 +29,4 @@ export class CabeceraService {
     return this.http.get('http://localhost/getDatos', {headers: this.headers});
   }
 }
-```
+{% endhighlight %}
