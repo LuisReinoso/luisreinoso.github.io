@@ -39,7 +39,7 @@ sails lift
 
 Open navegator and on url bar type localhost:1337/getApi. Then you will see an ok.
 
-Install node-fetch to use fetch to get an the result of api.
+Install node-fetch to use fetch and get the result of Github api.
 
 {% highlight bash %}
 npm install --save node-fetch
@@ -82,7 +82,7 @@ To verify it's all is ok.. re-start application,
 sails lift
 {% endhighlight %}
 
-Open navegator and on url bar type localhost:1337/getApi. Then you will see an my name repos.
+Open navegator and on url bar type localhost:1337/getApi. Then you will see my repos name.
 
 **Notes**
 * fetch is not in node by default
