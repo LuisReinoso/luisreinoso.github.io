@@ -1,5 +1,5 @@
-## Blog personal
--------
+# Blog personal
+
 * [https://luisreinoso.github.io](https://luisreinoso.github.io)
 
 Instalacion
