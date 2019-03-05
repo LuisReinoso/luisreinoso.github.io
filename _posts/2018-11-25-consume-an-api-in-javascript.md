@@ -2,7 +2,7 @@
 layout: post
 title: "Consume a Github api in javascript using sailsjs"
 description: "Use sailjs to provide an api to consume another api"
-categories: [sails]
+categories: [sailsjs]
 tags: [sails, sailsjs, fetch]
 ---
 
