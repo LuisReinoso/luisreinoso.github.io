@@ -3,13 +3,13 @@
 		$(document).on('click','.tag-filter',function(){
 			var $this = $(this);
 			
-			$('span.tag-filter').removeClass("active");
-			$this.addClass("active");
+			$('span.tag-filter').removeClass("label-success");
+			$this.addClass("label-success");
 
 
 			$('.tag-group').children().each(function(){
 				if( $(this).data('tag') ==  $this.data('tag')){
-					$(this).addClass("active");
+					$(this).addClass("label-success");
 				}
 			});
 

@@ -20,8 +20,11 @@ layout: default
 
     <div class="projects">
     {% include project_tags.html %}
-    {% for i in site.data.projects %}
-    	<div class="project-item project-outer" data-tags='{{ i.tags | jsonify | downcase }}'>
+		{% for i in site.data.projects %}
+			{% if forloop.first == true %}
+			<div class="row">
+			{% endif %}
+    	<div class="col-md-4 project-item" data-tags='{{ i.tags | jsonify | downcase }}'>
     		<div class="project-inner">
     			<a href="/static/projects/{{ i.image }}" class="thickbox">
     			<div class="project-img bordered" style="background-image: url('/static/projects/{{ i.image }}');"></div>
@@ -40,39 +43,45 @@ layout: default
     				<div class="tag-holder">
     				{% if i.tags %}
     					{% for j in i.tags %}
-    					<span class="tags tag-filter" data-tag="{{ j | downcase }}"><a href="#{{ j }}">{{ j }}</a></span>
-    					{% endfor %}
-    				{% endif %}
-    				</div>
+							<span class="tag-filter label label-primary" data-tag="{{ j | downcase }}"><a href="#{{ j }}"></a>{{ j }}</span>
+							{% endfor %}
+						{% endif %}
+						</div>
 
-    			</div>
-    			<div class="project-footer">
-    				{% if i.url %}
-    				<a href="{{ i.url }}" class="project-link" target="_blank"><i class="fa fa-globe"></i> Ver</a>
-    				{% endif %}
-    				<span class="project-timeline">
-              {% assign m = i.date | date: "%-m"  %}
-              {% case m %}
-          							      {% when '1' %}Enero
-          							      {% when '2' %}Febrero
-          							      {% when '3' %}Marzo
-          							      {% when '4' %}Abril
-          							      {% when '5' %}Mayo
-          							      {% when '6' %}Junio
-          							      {% when '7' %}Julio
-          							      {% when '8' %}Agosto
-          							      {% when '9' %}Septiembre
-          							      {% when '10' %}Octubre
-          							      {% when '11' %}Noviembre
-          							      {% when '12' %}Diciembre
-              {% endcase %}
-            {{ i.date | date: "%Y" }}
-            </span>
-    			</div>
-    		</div>
-    		<hr>
-    	</div>
-
+					</div>
+					<div class="project-footer">
+						{% if i.url %}
+						<a href="{{ i.url }}" class="project-link mr-2" target="_blank"><i class="fa fa-globe"></i></a>
+						{% endif %}
+						{% if i.github %}
+						<a href="{{ i.github }}" class="project-link" target="_blank"><i class="fa fa-github"></i></a>
+						{% endif %}
+						
+						<span class="project-timeline">
+							{% assign m = i.date | date: "%-m"  %}
+							{% case m %}
+															{% when '1' %}Enero
+															{% when '2' %}Febrero
+															{% when '3' %}Marzo
+															{% when '4' %}Abril
+															{% when '5' %}Mayo
+															{% when '6' %}Junio
+															{% when '7' %}Julio
+															{% when '8' %}Agosto
+															{% when '9' %}Septiembre
+															{% when '10' %}Octubre
+															{% when '11' %}Noviembre
+															{% when '12' %}Diciembre
+							{% endcase %}
+						{{ i.date | date: "%Y" }}
+						</span>
+					</div>
+				</div>
+				<hr>
+			</div>
+			{% if forloop.last == true %}
+			</div>
+			{% endif %}
     {% endfor %}
     </div>
   </div>
