@@ -1,9 +1,96 @@
 [
 	{
-		"name": "Proyecto 1",
-		"image": "../img/avatar.png",
-		"url": "ejemploProyecto",
+		"name": "Generador de horarios",
+		"image": "../img/proyectos/generadorHorarioEstudiante.png",
+		"url": "https://github.com/LuisReinoso/GeneradorHorarioEstudiante",
 		"date": "Marzo 2016",
-		"tags": ["Java"]
+		"tags": ["Java", "Inteligencia artificial"]
+	},
+	{
+		"name": "Battery Alert",
+		"image": "../img/proyectos/batteryAlert.png",
+		"url": "https://github.com/LuisReinoso/BatteryAlert",
+		"date": "Agosto 2015",
+		"tags": ["Shell Script"]
+	},
+	{
+		"name": "SI FEPON",
+		"image": "../img/proyectos/si-fepon.png",
+		"url": "https://github.com/LuisReinoso/SI-FEPON",
+		"date": "Actualidad",
+		"tags": ["Angular", "Nodejs", "Sailsjs", "Javascript"]
+	},
+	{
+		"name": "CLI Text-To-Speech Watson",
+		"image": "../img/proyectos/cli-watson.png",
+		"url": "https://github.com/LuisReinoso/tts-watson",
+		"date": "Marzo 2019",
+		"tags": ["Nodejs", "Javascript"]
+	},
+	{
+		"name": "Browser Extensión",
+		"image": "../img/proyectos/git-history-browser-extension.png",
+		"url": "https://github.com/LuisReinoso/git-history-browser-extension",
+		"date": "Febrero 2019",
+		"tags": ["Javascript", "Browser extension"]
+	},
+	{
+		"name": "Logística App",
+		"image": "../img/proyectos/logistica.png",
+		"url": "",
+		"date": "Próximamente en producción",
+		"tags": ["Angular", "Nodejs", "Sailsjs", "Javascript"]
+	},
+	{
+		"name": "Waterline Query Parser",
+		"image": "../img/proyectos/waterline-query-language-parser.png",
+		"url": "https://github.com/LuisReinoso/waterline-query-language-parser",
+		"date": "Junio 2018",
+		"tags": ["Nodejs", "Sailsjs", "Javascript"]
+	},
+	{
+		"name": "Plazas rural ec",
+		"image": "../img/proyectos/plazas-rural-ec.png",
+		"url": "https://github.com/LuisReinoso/plazas-rural-ec",
+		"date": "Diciembre 2018",
+		"tags": ["Angular", "Nodejs", "Sailsjs", "Javascript"]
+	},
+	{
+		"name": "ngx-changelog",
+		"image": "../img/proyectos/ngx-changelog.png",
+		"url": "https://luisreinoso.github.io/ngx-changelog",
+		"date": "Septiembre 2018",
+		"tags": ["Angular", "Nodejs", "Javascript"]
+	},
+	{
+		"name": "datatec-qa",
+		"image": "../img/proyectos/datatec-qa.png",
+		"url": "",
+		"date": "Diciembre 2017",
+		"tags": ["Angular", "Nodejs", "Sailsjs", "Javascript"]
+	},
+	{
+		"name": "time-to-days",
+		"image": "../img/proyectos/time-to-days.png",
+		"url": "https://github.com/LuisReinoso/time-to-days",
+		"date": "Junio 2018",
+		"tags": ["Javascript"]
+	},
+	{
+		"name": "generator-angular-sails",
+		"image": "../img/proyectos/generator-angular-sails.png",
+		"url": "https://github.com/LuisReinoso/generator-angular-sails",
+		"date": "Febrero 2018",
+		"tags": ["Javascript"]
+	},
+	{
+		"name": "bitmask",
+		"image": "../img/proyectos/bitmask.png",
+		"url": "https://github.com/LuisReinoso/Bitmask",
+		"date": "Abril 2018",
+		"tags": ["Javascript", "Typescript"]
 	}
+	
+	
+	
 ]
