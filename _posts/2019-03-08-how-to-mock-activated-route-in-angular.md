@@ -51,14 +51,14 @@ describe('ExampleComponent', () => {
           provide: ActivatedRoute,
           useValue: { // Mock
             queryParams: of(
-              convertToParamMap({
+              {
                 id_params: 'id_params_test'
-              })
+              }
             ),
             params: of(
-              convertToParamMap({
+              {
                 id_query_params: 'id_query_params_test'
-              })
+              }
             )
           }
         }
