@@ -44,7 +44,7 @@ example.component.html
 {% highlight html linenos %}
 {% raw %}
 <select class="form-control">
-    <option *ngFor="let dia of semana | keyvalue" value="{{semana.key}}">{{semana.value}}</option>
+    <option *ngFor="let dia of semana | keyvalue" value="{{dia.key}}">{{dia.value}}</option>
 </select>
 {% endraw %}
 {% endhighlight %}
