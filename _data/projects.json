@@ -102,6 +102,22 @@
 		"github": "https://github.com/LuisReinoso/Bitmask",
 		"date": "Abril 2018",
 		"tags": ["javascript", "typescript"]
+	},
+	{
+		"name": "upload-file-cli",
+		"image": "../img/proyectos/upload-file-cli.png",
+		"url": "https://www.npmjs.com/package/upload-file-cli",
+		"github": "https://github.com/LuisReinoso/upload-file-cli",
+		"date": "Sep 2019",
+		"tags": ["nodejs", "javascript"]
+	},
+	{
+		"name": "css-selector-game",
+		"image": "../img/proyectos/css-selector-game.png",
+		"url": "https://luisreinoso.github.io/css-selector-game/",
+		"github": "https://github.com/LuisReinoso/css-selector-game",
+		"date": "Ago 2019",
+		"tags": ["nodejs", "javascript"]
 	}
 	
 	
