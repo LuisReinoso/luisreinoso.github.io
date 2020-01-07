@@ -5,8 +5,6 @@ description: "La manera de accerar el desarrollo en tus proyectos de Angular en 
 categories: [angular]
 tags: [angular]
 ---
-# Cómo navegar rápidamente entre archivos de proyectos de Angular en VSCode.
-
 En base a mi experiencia esto depende de dos factores:
 - la estructura del proyecto.
 - el editor de texto que uses.
@@ -90,7 +88,7 @@ Para ver los [atajos del teclado de VSCode](https://code.visualstudio.com/docs/g
 
 - Buscar archivo: Simplemente pones en nombre del feature que buscas.
   <kbd>Ctrl</kbd> + <kbd>p</kbd>
-  
+
   ![](/static/img/posts/navegacion_rapida_vscode.png)
 
 - Abrir o cerrar panel lateral: Permite más espacio para ver el archivo
@@ -102,7 +100,7 @@ Para ver los [atajos del teclado de VSCode](https://code.visualstudio.com/docs/g
 
   * Cerrado
 
-  ![](/static//posts/barra_lateral_cerrado_vscode.png)
+  ![](/static/img/posts/barra_lateral_cerrado_vscode.png)
 
 ## Extensiones
 
@@ -117,4 +115,4 @@ Para ver los [atajos del teclado de VSCode](https://code.visualstudio.com/docs/g
   Cambia entre archivos .ts .scss/.css .spec
 
 ## Lectura recomendada
-- Guía estilo Angular [https://angular.io/guide/styleguide]
+- [Guía estilo Angular](https://angular.io/guide/styleguide)
