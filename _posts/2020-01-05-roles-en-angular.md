@@ -5,8 +5,6 @@ description: "Cómo agregar roles en angular"
 categories: [angular]
 tags: [angular]
 ---
-# Roles Angular
-
 Usar ngx-permissions para validar roles usuarios
 https://github.com/AlexKhymenko/ngx-permissions
 
