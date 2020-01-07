@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cómo navegar rápidamente entre archivos de proyectos de Angular en VSCode."
-description: "La manera de accerar el desarrollo en tus proyectos de Angular en VSCode"
+description: "La manera de acelerar el desarrollo en tus proyectos de Angular en VSCode"
 categories: [angular]
 tags: [angular]
 ---
