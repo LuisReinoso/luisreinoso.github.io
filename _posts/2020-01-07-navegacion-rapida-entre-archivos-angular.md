@@ -90,16 +90,19 @@ Para ver los [atajos del teclado de VSCode](https://code.visualstudio.com/docs/g
 
 - Buscar archivo: Simplemente pones en nombre del feature que buscas.
   <kbd>Ctrl</kbd> + <kbd>p</kbd>
-  ![](img/posts/navegacion_rapida_vscode.png)
+  
+  ![](/static/img/posts/navegacion_rapida_vscode.png)
 
 - Abrir o cerrar panel lateral: Permite más espacio para ver el archivo
   <kbd>Ctrl</kbd> + <kbd>b</kbd>
 
   * Abierto
+
   ![](/static/img/posts/barra_lateral_abierto_vscode.png)
 
   * Cerrado
-  ![](img/posts/barra_lateral_cerrado_vscode.png)
+
+  ![](/static//posts/barra_lateral_cerrado_vscode.png)
 
 ## Extensiones
 
