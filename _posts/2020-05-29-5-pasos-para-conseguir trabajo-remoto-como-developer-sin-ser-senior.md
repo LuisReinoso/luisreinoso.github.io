@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5 pasos para conseguir trabajo remoto como developer desde Ecuador sin ser programador Senior?"
+title: "5 pasos para conseguir trabajo remoto como developer desde Ecuador sin ser programador Senior"
 description: "Pasos que debes seguir para conseguir trabajo remoto"
 categories: [blog]
 tags: [blog]
@@ -96,7 +96,7 @@ Cuenta sobre tu historia en la programación y sobre que tuviste que pasar para 
 
 Si deseas conseguir un empleo con Angular pero tienes alguna duda técnica con respecto a hacer alguna cosa en Angular.
 
-- Puedo ayudarte a encontrar la solución al problema técnico.
+- Puedo ayudar para que encuentres la solución al problema técnico.
 - Puedo hacer code review de tu proyecto en github.
 - Podemos hacer pair programming remotamente.
 
