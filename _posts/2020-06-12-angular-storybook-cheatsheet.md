@@ -25,20 +25,20 @@ sb init
   ng g component test
   ```
 
-  ### Create story file
-  ```test.stories.ts``` It should have stories before `ts` extension
+### Create story file
+```test.stories.ts``` It should have stories before `ts` extension
 
-  ```typescript
-  export default {
-  title: 'Ideario Components',
-  component: IdearioComponent,
-  decorators: [
-    moduleMetadata({ // imports
-      imports: [CommonModule]
-      })
-    ]
-  };
-  ```
+```typescript
+export default {
+title: 'Ideario Components',
+component: IdearioComponent,
+decorators: [
+  moduleMetadata({ // imports
+    imports: [CommonModule]
+    })
+  ]
+};
+```
 
 ## Add module decorator
 
