@@ -22,7 +22,6 @@ hr {
  */
 span.time {
     color: #931a59;
-    margin-bottom: 5px;
     font-size: 11px;
 }
 
@@ -263,4 +262,9 @@ div.col-sm-3 img#about {
 
 .space {
     flex: 1;
+}
+
+.post-item {
+    display: flex;
+    flex-direction: row;
 }

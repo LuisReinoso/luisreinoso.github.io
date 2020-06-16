@@ -3,30 +3,35 @@ layout: default
 ---
 
 <div id="home">
-    <h1>Ideario</h1>
+    <h1>Ideario :bulb: :green_book:</h1>
     <hr />
-    <ol class="posts">
+    <ul class="posts">
     {% for post in paginator.posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo;
-        <i><span class="time">
-          {{ post.date | date: "%d" }}
-          {% assign m = post.date | date: "%-m"  %}
-          {% case m %}
-      							      {% when '1' %}Enero
-      							      {% when '2' %}Febrero
-      							      {% when '3' %}Marzo
-      							      {% when '4' %}Abril
-      							      {% when '5' %}Mayo
-      							      {% when '6' %}Junio
-      							      {% when '7' %}Julio
-      							      {% when '8' %}Agosto
-      							      {% when '9' %}Septiembre
-      							      {% when '10' %}Octubre
-      							      {% when '11' %}Noviembre
-      							      {% when '12' %}Diciembre
-          {% endcase %}
-        {{ post.date | date: "%Y" }}
-        </span></i>
+      <li>
+        <div class="post-item">
+          <a href="{{ post.url }}">
+            <div>{{ post.title }}</div>
+          </a>
+          <!-- <span class="time">
+            {{ post.date | date: "%d" }}
+            {% assign m = post.date | date: "%-m"  %}
+            {% case m %}
+                            {% when '1' %}Enero
+                            {% when '2' %}Febrero
+                            {% when '3' %}Marzo
+                            {% when '4' %}Abril
+                            {% when '5' %}Mayo
+                            {% when '6' %}Junio
+                            {% when '7' %}Julio
+                            {% when '8' %}Agosto
+                            {% when '9' %}Septiembre
+                            {% when '10' %}Octubre
+                            {% when '11' %}Noviembre
+                            {% when '12' %}Diciembre
+            {% endcase %}
+          {{ post.date | date: "%Y" }}
+          </span> -->
+        </div>
       </li>
     {% endfor %}
     </ol>
