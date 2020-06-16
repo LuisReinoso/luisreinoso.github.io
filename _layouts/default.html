@@ -95,7 +95,7 @@
 			<div class="social">
 			    <ul>
 			{% for link in site.social %}
-				<li><a href="{{ link.link }}" target="_blank"><i class="fa {{ link.icon }}"></i></a></li>
+				<li><a href="{{ link.link }}" target="_blank"><i class="fa fa-lg {{ link.icon }}"></i></a></li>
 			{% endfor %}
 			    </ul>
 			</div>
@@ -105,11 +105,12 @@
 			    <ul class="search__results" id="js-search__results"></ul>
 			</div>
 
-			<strong>Navegación</strong><br />
-		    &nbsp;&raquo; <a href="/">Home</a> <br />
-		{% for i in site.urls %}
-		    &nbsp;&raquo; <a class="about" href="{{ i.url }}">{{ i.text }}</a><br />
-		{% endfor %}
+            <strong>Navegación</strong><br />
+            {% for i in site.urls %}
+                <div class="site-url-container">
+                    :small_blue_diamond: <a class="site-url" href="{{ i.url }}">{{ i.text }}</a><br />
+                </div>
+            {% endfor %}
 		    </div><!-- end /.fixed-condition -->
 		</div>
 		

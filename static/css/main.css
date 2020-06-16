@@ -4,7 +4,7 @@
 body {
     font-family: "Roboto Condensed", Arial, sans-serif;
     background-color: #fff;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.5em;
     color: #666;
     font-weight: 300;
@@ -249,4 +249,14 @@ div.col-sm-3 img#about {
     border-radius: 4px;
     color: white;
     background-color: #00aced;
+}
+
+.site-url-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.site-url {
+    font-size: 15px;
 }

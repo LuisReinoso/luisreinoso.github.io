@@ -33,6 +33,8 @@ share:
   # fb_appid: 1749788565247320
 
 urls:
+    - text: Home
+      url: /
     - text: Sobre mi
       url: /about/
     - text: Proyectos
