@@ -37,8 +37,8 @@ urls:
       url: /about/
     - text: Proyectos
       url: /project/
-    - text: Github
-      url: https://github.com/luisreinoso
+    - text: 'Tienda :fire:'
+      url: /store/
     - text: Feed
       url: /feed.xml
 

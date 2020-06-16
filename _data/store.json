@@ -1,0 +1,10 @@
+[
+	{
+		"name": "Open Mercadito",
+		"image": "../img/store/open-mercadito-logo.jpeg",
+		"url": "https://openmercadito.com",
+		"date": "Junio 2020",
+    "tags": ["angular"],
+    "buyUrl": "https://gum.co/open-mercadito"
+	}
+]

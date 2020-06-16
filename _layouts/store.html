@@ -12,22 +12,21 @@ layout: default
     {{ content }}
 
     {% assign p_array = "" | split:"|"  %}
-    {% for project in site.project %}
-    {% capture p_slug %}{{ project.url | split:"/" | last }},{{ project.url }}{% endcapture %}
+    {% for item in site.store %}
+    {% capture p_slug %}{{ item.url | split:"/" | last }},{{ item.url }}{% endcapture %}
     {% assign p_slug_arr = p_slug | split:"," %}
     {% assign p_array = p_array | push: p_slug_arr  %}
     {% endfor %}
 
     <div class="projects">
-    {% include project_tags.html %}
-		{% for i in site.data.projects %}
+		{% for i in site.data.store %}
 			{% if forloop.first == true %}
 			<div class="projects-container">
 			{% endif %}
     	<div class="project-item" data-tags='{{ i.tags | jsonify | downcase }}'>
     		<div class="project-inner">
-    			<a href="/static/projects/{{ i.image }}" class="thickbox">
-    			<div class="project-img bordered" style="background-image: url('/static/projects/{{ i.image }}');"></div>
+    			<a href="/static/store/{{ i.image }}" class="thickbox">
+    			<div class="project-img bordered" style="background-image: url('/static/store/{{ i.image }}');"></div>
                 </a>
                 {% assign p_url = nil %}
                 {% for pr in p_array %}
@@ -51,10 +50,13 @@ layout: default
 					</div>
 					<div class="project-footer">
 						{% if i.url %}
-						<a href="{{ i.url }}" class="project-link mr-4" target="_blank">:earth_americas:</a>
+						<a href="{{ i.url }}" class="project-link mr-4" target="_blank">:earth_americas:</i></a>
 						{% endif %}
 						{% if i.github %}
-						<a href="{{ i.github }}" class="project-link mr-4" target="_blank"><i class="fa fa-lg fa-github"></i></a>
+						<a href="{{ i.github }}" class="project-link mr-4" target="_blank"><i class="fa fa-github"></i></a>
+						{% endif %}
+						{% if i.buyUrl %}
+						<a href="{{i.buyUrl}}" class="project-link mr-4" target="_blank">:shopping_cart:</a>
 						{% endif %}
 						
 						<span class="project-timeline">
