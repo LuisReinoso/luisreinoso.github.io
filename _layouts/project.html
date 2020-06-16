@@ -56,7 +56,13 @@ layout: default
 						{% if i.github %}
 						<a href="{{ i.github }}" class="project-link mr-4" target="_blank"><i class="fa fa-lg fa-github"></i></a>
 						{% endif %}
-						
+						{% if i.stars %}
+						<div class="stars">
+							<div>:star:</div>
+							<div>{{i.stars}}</div>
+						</div>
+						{% endif %}
+						<div class="space"></div>
 						<span class="project-timeline">
 							{% assign m = i.date | date: "%-m"  %}
 							{% case m %}

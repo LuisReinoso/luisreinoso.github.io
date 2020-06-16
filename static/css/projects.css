@@ -30,8 +30,9 @@ span.tags:last-child{ margin-right: 0; }
 
 .project-footer {
     clear: both;
-    display: inline-block;
+    display: flex;
     width: 100%;
+    align-items: center;
 }
 .project-footer .project-link {
     display: inline-block;
@@ -77,3 +78,9 @@ span.tag-cloud {
 
 a.project-detail:hover {text-decoration: none;}
 a.project-detail:hover h3 {color: #62A253;}
+
+.stars {
+    display: flex;
+    font-size: 12px;
+    font-weight: bold;
+}

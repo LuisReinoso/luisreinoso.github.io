@@ -260,3 +260,7 @@ div.col-sm-3 img#about {
 .site-url {
     font-size: 15px;
 }
+
+.space {
+    flex: 1;
+}

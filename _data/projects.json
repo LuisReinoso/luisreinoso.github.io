@@ -36,6 +36,7 @@
 		"image": "../img/proyectos/git-history-browser-extension.png",
 		"url": "https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf",
 		"github": "https://github.com/LuisReinoso/git-history-browser-extension",
+		"stars": 73,
 		"date": "Febrero 2019",
 		"tags": ["javascript", "browser extension"]
 	},
@@ -62,14 +63,6 @@
 		"github": "https://github.com/luisreinoso/ngx-changelog",
 		"date": "Septiembre 2018",
 		"tags": ["angular", "nodejs", "javascript"]
-	},
-	{
-		"name": "datatec-qa",
-		"image": "../img/proyectos/datatec-qa.png",
-		"url": null,
-		"github": null,
-		"date": "Diciembre 2017",
-		"tags": ["angular", "nodejs", "sailsjs", "javascript"]
 	},
 	{
 		"name": "time-to-days",
@@ -108,6 +101,7 @@
 		"image": "../img/proyectos/css-selector-game.png",
 		"url": "https://luisreinoso.github.io/css-selector-game/",
 		"github": "https://github.com/LuisReinoso/css-selector-game",
+		"stars": 1,
 		"date": "Ago 2019",
 		"tags": ["nodejs", "javascript"]
 	}
