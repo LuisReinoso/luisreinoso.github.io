@@ -22,9 +22,9 @@ layout: default
     {% include project_tags.html %}
 		{% for i in site.data.projects %}
 			{% if forloop.first == true %}
-			<div class="row">
+			<div class="projects-container">
 			{% endif %}
-    	<div class="col-md-4 project-item" data-tags='{{ i.tags | jsonify | downcase }}'>
+    	<div class="project-item" data-tags='{{ i.tags | jsonify | downcase }}'>
     		<div class="project-inner">
     			<a href="/static/projects/{{ i.image }}" class="thickbox">
     			<div class="project-img bordered" style="background-image: url('/static/projects/{{ i.image }}');"></div>

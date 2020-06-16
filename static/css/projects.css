@@ -1,6 +1,12 @@
 /*
  * Project Elements
 */
+.projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
 .project-outer {
     display: inline-block;
     width: 30%;
@@ -47,7 +53,7 @@ span.tags:last-child{ margin-right: 0; }
     width: 230px;
     height: 200px;
     display: block;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
 }

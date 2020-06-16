@@ -20,7 +20,7 @@
 		"image": "../img/proyectos/si-fepon.png",
 		"url": null,
 		"github": "https://github.com/LuisReinoso/SI-FEPON",
-		"date": "Actualidad",
+		"date": "Pendiente",
 		"tags": ["angular", "nodejs", "sailsjs", "javascript"]
 	},
 	{
@@ -38,14 +38,6 @@
 		"github": "https://github.com/LuisReinoso/git-history-browser-extension",
 		"date": "Febrero 2019",
 		"tags": ["javascript", "browser extension"]
-	},
-	{
-		"name": "Logística App",
-		"image": "../img/proyectos/logistica.png",
-		"url": null,
-		"github": null,
-		"date": "Próximamente en producción",
-		"tags": ["angular", "nodejs", "sailsjs", "javascript"]
 	},
 	{
 		"name": "Waterline Query Parser",
@@ -119,7 +111,4 @@
 		"date": "Ago 2019",
 		"tags": ["nodejs", "javascript"]
 	}
-	
-	
-	
 ]
