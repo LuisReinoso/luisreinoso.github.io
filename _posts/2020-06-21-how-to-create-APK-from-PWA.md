@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to create a APK from PWA?"
+title: "How to create an APK from PWA?"
 description: "Build an Android TWA and publish on Google Play Store from PWA using llama pack"
 categories: [PWA]
 tags: [PWA]
@@ -37,9 +37,9 @@ tags: [PWA]
 
 - Install llama-pack cli
 
-```console
-npm i -g @llama-pack/cli
-```
+  ```console
+  npm i -g @llama-pack/cli
+  ```
 
 - Execute llama-pack
 
@@ -80,9 +80,9 @@ https://digitalassetlinks.googleapis.com/v1/statements:list?source.web.site=http
 
 - Build apk
 
-```console
-llama-pack build
-```
+  ```console
+  llama-pack build
+  ```
 
 This generate the `app-release-signed.apk`
 
