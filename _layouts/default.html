@@ -81,9 +81,8 @@
     </head>
 
     <body>
-        <div class="container">
-	    <div class="row">
-		<div class="col-sm-3">
+        <div class="main-container">
+		<div class="col-sm-2">
 		    <div class="fixed-condition">
 			<a href="/"><img id="about" src="/static/img/avatar.png" height="auto" width="125em" /></a>
 			<h1 class="author-name">{{ site.author }}</h1>
@@ -114,18 +113,30 @@
 		    </div><!-- end /.fixed-condition -->
 		</div>
 		
-		<div class="col-sm-8 col-offset-1">
-		{{ content }}
-		    <footer>
-			  &copy; {{ site.author }}
-			  {% if site.github %}
-		      - <a href="{{ site.github }}">{{ site.github }}</a> - powered by jekyll.
-			  {% endif %}
-            <div class="btn-github" style="float:right;">
-                <iframe src="https://ghbtns.com/github-btn.html?user=LuisReinoso&type=follow" frameborder="0" scrolling="0" width="170" height="20" title="GitHub"></iframe>
-			</div>
-         	    </footer>
+		<div class="main col-sm-8 col-offset-1">
+      <div class="main-content">
+        {{ content }}
+        <footer>
+          &copy; {{ site.author }}
+          {% if site.github %}
+            - <a href="{{ site.github }}">{{ site.github }}</a> - powered by jekyll.
+          {% endif %}
+          <div class="btn-github" style="float:right;">
+              <iframe src="https://ghbtns.com/github-btn.html?user=LuisReinoso&type=follow" frameborder="0" scrolling="0" width="170" height="20" title="GitHub"></iframe>
+          </div>
+        </footer>
+      </div>
 		</div><!-- end /.col-sm-8 -->
+    <div class="auxiliar-sidebar col-sm-2">
+      {% if page.toc %}
+        <div class="table-of-contents">
+          <div class="table-of-contents__title">
+            {% if page.language == 'es' %} Tabla de contenidos {% else %} Table of
+            Contents {% endif %}
+          </div>
+          <div class="table-of-contents__list">{% toc %}</div>
+        </div>
+        {% endif %}
 	    </div>
 	    
         </div><!-- end /.container -->

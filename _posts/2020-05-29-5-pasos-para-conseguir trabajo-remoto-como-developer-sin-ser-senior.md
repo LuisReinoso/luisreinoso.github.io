@@ -4,6 +4,8 @@ title: "5 pasos para conseguir trabajo remoto como developer desde Ecuador sin s
 description: "Pasos que debes seguir para conseguir trabajo remoto"
 categories: [blog]
 tags: [blog]
+toc: true
+language: "es"
 ---
 ## Crea proyectos de software libre en Github.
 

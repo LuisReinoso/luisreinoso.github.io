@@ -7,3 +7,4 @@ gem 'jemoji'
 group :jekyll_plugins do
   gem 'jekyll-pwa-plugin'
 end
+gem 'jekyll-toc'
