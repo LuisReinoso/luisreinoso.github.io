@@ -152,7 +152,7 @@ div.col-sm-2 {
         font-size: 11px;
         color: #666;
         display: flex;
-        justify-content: center;
+        justify-content: space-around;
 }
 
 div.col-sm-2 strong {
@@ -273,7 +273,7 @@ div.col-sm-2 img#about {
 
 .auxiliar-sidebar {
     display: flex;
-    justify-content: flex-start !important;
+    justify-content: flex-end !important;
 }
 
 .table-of-contents {
@@ -310,4 +310,26 @@ div.col-sm-2 img#about {
     align-items: flex-start;
     justify-content: space-around;
     flex-wrap: wrap;
+}
+
+.navbar-links {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 843PX) {
+    .info-sidebar {
+        display: none !important;
+    }
+
+    .auxiliar-sidebar {
+        display: none !important;
+    }
+}
+
+
+@media (min-width: 843PX) {
+    .main-navbar {
+        display: none;
+    }
 }

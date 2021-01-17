@@ -81,8 +81,22 @@
     </head>
 
     <body>
-        <div class="main-container">
-		<div class="col-sm-2">
+      <nav class="navbar navbar-default main-navbar">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/">
+              <img alt="profile" src="/static/img/avatar.png" height="auto" width="25em">
+            </a>
+            <ul class="nav navbar-nav navbar-links">
+              {% for i in site.urls %}
+                <li><a href="{{ i.url }}">{{ i.text }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <div class="main-container">
+		<div class="info-sidebar col-sm-2">
 		    <div class="fixed-condition">
 			<a href="/"><img id="about" src="/static/img/avatar.png" height="auto" width="125em" /></a>
 			<h1 class="author-name">{{ site.author }}</h1>
