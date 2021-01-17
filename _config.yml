@@ -2,7 +2,7 @@ title: Ideario
 description: Blog personal de Luis Reinoso
 author: Luis Reinoso
 github: https://github.com/luisreinoso
-about: Freelance developer. I usually give ⭐ on Github (javascript, python, angular 🅰️). Veggie 🥑🍓. Believe In Yourself.
+about:
 disqus_shortname: ideario
 google_analytics: UA-127486975-1
 
@@ -25,26 +25,24 @@ social:
        link: "https://github.com/luisreinoso"
   #  - icon: fa-linkedin
   #    link: "#"
-  #  - icon: fa-stack-exchange
-  #    link: "#"
+     - icon: fa-stack-overflow
+       link: "https://stackoverflow.com/users/9692156/luis-reinoso?tab=profile"
 
 share:
   twitter_username: luisreinosodev
   # fb_appid: 1749788565247320
 
 urls:
-    - text: Home
+    - text: Posts
       url: /
-    - text: Sobre mi
-      url: /about/
     - text: Proyectos
       url: /project/
-    - text: 'Tienda :fire:'
+    - text: Tienda
       url: /store/
     - text: Feed
       url: /feed.xml
 
-url: "https://luisreinoso.github.io"
+url: "https://luisreinoso.dev"
 baseurl: ""
 paginate: 20
 per_page: 20
