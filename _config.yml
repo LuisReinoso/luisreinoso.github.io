@@ -47,6 +47,27 @@ baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
+
+jekyll-gensocial:     # These are the default settings
+  enabled: true       # Disables the output
+  size:               # The size of the overall canvas
+    width: 1920
+    height: 1080
+  background:         # The background image
+    path: assets/img/social-post.png
+  text:
+    string: nil       # Overrides the post/page title
+    font_path: nil    # Path to your custom font
+    pointsize: 100    # Font size
+    fill: "#000000"   # Font color
+    rect:             # Text will appear inside this frame
+      size:
+        width: 1600
+        height: 500
+      origin:
+        x: 150
+        y: 100
+
 markdown: kramdown
 plugins:
   - jekyll-paginate
@@ -54,3 +75,4 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-toc
+  - jekyll-gensocial
