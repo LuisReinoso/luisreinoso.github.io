@@ -148,7 +148,15 @@
             {% if page.language == 'es' %} Tabla de contenidos {% else %} Table of
             Contents {% endif %}
           </div>
-          <div class="table-of-contents__list">{% toc %}</div>
+          <div class="table-of-contents__list">
+            <ul>
+            {% for i in page.urls %}
+              <li>
+                <a class="site-url" href="{{ i.url }}">{{ i.text }}</a>
+              </li>
+            {% endfor %}
+            </ul>          
+          </div>
         </div>
         {% endif %}
 	    </div>

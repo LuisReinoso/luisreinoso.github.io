@@ -4,7 +4,6 @@ title: "How to create an APK from PWA?"
 description: "Build an Android TWA and publish on Google Play Store from PWA using llama pack"
 categories: [PWA]
 tags: [PWA]
-toc: true
 ---
 
 - Has PWA all ready **Important!**
