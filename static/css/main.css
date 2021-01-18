@@ -280,6 +280,7 @@ div.col-sm-2 img#about {
     position: fixed;
     margin-top: 100px;
     padding-right: 20px;
+    width: inherit;
 }
 
 .table-of-contents__title {
@@ -317,7 +318,7 @@ div.col-sm-2 img#about {
     flex-wrap: wrap;
 }
 
-@media (max-width: 843PX) {
+@media (max-width: 1024px) {
     .info-sidebar {
         display: none !important;
     }
@@ -328,7 +329,7 @@ div.col-sm-2 img#about {
 }
 
 
-@media (min-width: 843PX) {
+@media (min-width: 1024px) {
     .main-navbar {
         display: none;
     }
