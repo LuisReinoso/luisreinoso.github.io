@@ -337,3 +337,7 @@ div.col-sm-2 img#about {
 .post p {
     word-break: break-word;
 }
+
+code.highlighter-rouge {
+    white-space: normal;
+}
