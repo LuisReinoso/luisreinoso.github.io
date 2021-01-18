@@ -36,6 +36,7 @@ layout: default
                     {% endif %}
                 {% endfor %}
                 {% if p_url == nil %}{% assign p_url = i.url %}{% endif %}
+								{% if p_url == nil %}{% assign p_url = i.github %}{% endif %}
                 {% if p_url %}<a class="project-detail" href="{{ p_url }}">{% endif %}
     			<h3 class="project-headlines">{{ i.name }}</h3>
     			{% if p_url %} </a> {% endif %}

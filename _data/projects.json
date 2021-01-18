@@ -1,27 +1,61 @@
 [
 	{
-		"name": "Generador de horarios",
-		"image": "../img/proyectos/generadorHorarioEstudiante.png",
-		"url": "https://github.com/LuisReinoso/GeneradorHorarioEstudiante/releases/download/v1.0.0/GeneradorHorarios.jar",
-		"github": "https://github.com/LuisReinoso/GeneradorHorarioEstudiante",
-		"date": "Marzo 2016",
-		"tags": ["java", "inteligencia artificial"]
+		"name": "jest-argos-gnome-extension",
+		"image": "../img/proyectos/jest-argos-gnome-extension.gif",
+		"github": "https://github.com/LuisReinoso/jest-argos-gnome-extension",
+		"date": "Enero 2021",
+		"tags": ["shell script", "jest", "linux"]
 	},
 	{
-		"name": "Battery Alert",
-		"image": "../img/proyectos/batteryAlert.png",
-		"url": null,
-		"github": "https://github.com/LuisReinoso/BatteryAlert",
-		"date": "Agosto 2015",
-		"tags": ["shell script"]
+		"name": "vscode-ng-file-switcher",
+		"image": "../img/proyectos/vscode-ng-file-switcher.gif",
+		"url": "https://marketplace.visualstudio.com/items?itemName=luisreinosodev.vscode-ng-file-switcher",
+		"github": "https://github.com/LuisReinoso/vscode-ng-file-switcher",
+		"date": "Enero 2021",
+		"tags": ["angular", "typescript", "vscode"]
 	},
 	{
-		"name": "SI-FEPON",
-		"image": "../img/proyectos/si-fepon.png",
-		"url": null,
-		"github": "https://github.com/LuisReinoso/SI-FEPON",
-		"date": "Pendiente",
-		"tags": ["angular", "nodejs", "sailsjs", "javascript"]
+		"name": "ng-filename-parser",
+		"image": "../img/proyectos/ng-filename-parser.png",
+		"url": "https://www.npmjs.com/package/ng-filename-parser",
+		"github": "https://github.com/LuisReinoso/ng-filename-parser",
+		"date": "Enero 2021",
+		"tags": ["angular", "typescript"]
+	},
+	{
+		"name": "covid-19-community-tracker",
+		"image": "../img/proyectos/covid-19-community-tracker.png",
+		"url": "https://community-tracker-covid-19.firebaseapp.com/",
+		"github": "https://github.com/LuisReinoso/covid-19-community-tracker",
+		"stars": 1,
+		"date": "Marzo 2020",
+		"tags": ["angular", "typescript", "firebase"]
+	},
+	{
+		"name": "ng-stories-schematics",
+		"image": "../img/proyectos/ng-stories-schematics.png",
+		"url": "https://www.npmjs.com/package/ng-stories-schematics",
+		"github": "https://github.com/LuisReinoso/ng-stories-schematics",
+		"stars": 1,
+		"date": "Marzo 2020",
+		"tags": ["angular", "typescript"]
+	},
+	{
+		"name": "upload-file-cli",
+		"image": "../img/proyectos/upload-file-cli.png",
+		"url": "https://www.npmjs.com/package/upload-file-cli",
+		"github": "https://github.com/LuisReinoso/upload-file-cli",
+		"date": "Septiembre 2019",
+		"tags": ["nodejs", "javascript"]
+	},
+	{
+		"name": "css-selector-game",
+		"image": "../img/proyectos/css-selector-game.png",
+		"url": "https://luisreinoso.github.io/css-selector-game/",
+		"github": "https://github.com/LuisReinoso/css-selector-game",
+		"stars": 2,
+		"date": "Agosto 2019",
+		"tags": ["nodejs", "javascript", "svelte"]
 	},
 	{
 		"name": "CLI Text-To-Speech Watson",
@@ -36,23 +70,16 @@
 		"image": "../img/proyectos/git-history-browser-extension.png",
 		"url": "https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf",
 		"github": "https://github.com/LuisReinoso/git-history-browser-extension",
-		"stars": 73,
+		"stars": 85,
 		"date": "Febrero 2019",
 		"tags": ["javascript", "browser extension"]
-	},
-	{
-		"name": "Waterline Query Parser",
-		"image": "../img/proyectos/waterline-query-language-parser.png",
-		"url": "https://www.npmjs.com/package/waterline-query-language-parser",
-		"github": "https://github.com/LuisReinoso/waterline-query-language-parser",
-		"date": "Junio 2018",
-		"tags": ["nodejs", "sailsjs", "javascript"]
 	},
 	{
 		"name": "Plazas rural ec",
 		"image": "../img/proyectos/plazas-rural-ec.png",
 		"url": "https://plazas-rural-ec-medicina.now.sh/",
 		"github": "https://github.com/LuisReinoso/plazas-rural-ec",
+		"stars": 1,
 		"date": "Diciembre 2018",
 		"tags": ["angular", "nodejs", "sailsjs", "javascript"]
 	},
@@ -65,19 +92,19 @@
 		"tags": ["angular", "nodejs", "javascript"]
 	},
 	{
+		"name": "Waterline Query Parser",
+		"image": "../img/proyectos/waterline-query-language-parser.png",
+		"url": "https://www.npmjs.com/package/waterline-query-language-parser",
+		"github": "https://github.com/LuisReinoso/waterline-query-language-parser",
+		"date": "Junio 2018",
+		"tags": ["nodejs", "sailsjs", "javascript"]
+	},
+	{
 		"name": "time-to-days",
 		"image": "../img/proyectos/time-to-days.png",
 		"url": "https://npm.runkit.com/time-to-days",
 		"github": "https://github.com/LuisReinoso/time-to-days",
 		"date": "Junio 2018",
-		"tags": ["javascript"]
-	},
-	{
-		"name": "generator-angular-sails",
-		"image": "../img/proyectos/generator-angular-sails.png",
-		"url": null,
-		"github": "https://github.com/LuisReinoso/generator-angular-sails",
-		"date": "Febrero 2018",
 		"tags": ["javascript"]
 	},
 	{
@@ -89,20 +116,27 @@
 		"tags": ["javascript", "typescript"]
 	},
 	{
-		"name": "upload-file-cli",
-		"image": "../img/proyectos/upload-file-cli.png",
-		"url": "https://www.npmjs.com/package/upload-file-cli",
-		"github": "https://github.com/LuisReinoso/upload-file-cli",
-		"date": "Sep 2019",
-		"tags": ["nodejs", "javascript"]
+		"name": "generator-angular-sails",
+		"image": "../img/proyectos/generator-angular-sails.png",
+		"url": null,
+		"github": "https://github.com/LuisReinoso/generator-angular-sails",
+		"date": "Febrero 2018",
+		"tags": ["javascript", "angular"]
 	},
 	{
-		"name": "css-selector-game",
-		"image": "../img/proyectos/css-selector-game.png",
-		"url": "https://luisreinoso.github.io/css-selector-game/",
-		"github": "https://github.com/LuisReinoso/css-selector-game",
-		"stars": 1,
-		"date": "Ago 2019",
-		"tags": ["nodejs", "javascript"]
+		"name": "Generador de horarios",
+		"image": "../img/proyectos/generadorHorarioEstudiante.png",
+		"url": "https://github.com/LuisReinoso/GeneradorHorarioEstudiante/releases/download/v1.0.0/GeneradorHorarios.jar",
+		"github": "https://github.com/LuisReinoso/GeneradorHorarioEstudiante",
+		"date": "Marzo 2016",
+		"tags": ["java", "inteligencia artificial"]
+	},
+	{
+		"name": "Battery Alert",
+		"image": "../img/proyectos/batteryAlert.png",
+		"url": null,
+		"github": "https://github.com/LuisReinoso/BatteryAlert",
+		"date": "Agosto 2015",
+		"tags": ["shell script", "linux"]
 	}
 ]
