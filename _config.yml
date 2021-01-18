@@ -54,7 +54,7 @@ jekyll-gensocial:     # These are the default settings
     width: 1920
     height: 1080
   background:         # The background image
-    path: assets/img/social-post.png
+    path: static/img/social-post.png
   text:
     string: nil       # Overrides the post/page title
     font_path: nil    # Path to your custom font

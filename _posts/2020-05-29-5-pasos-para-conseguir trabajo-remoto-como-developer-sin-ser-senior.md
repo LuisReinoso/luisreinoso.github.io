@@ -5,6 +5,7 @@ description: "Pasos que debes seguir para conseguir trabajo remoto"
 categories: [blog]
 tags: [blog]
 toc: true
+image: static/img/social-post/5-pasos-para-conseguir-trabajo-remoto-como-developer-desde-Ecuador-sin-ser-programador-Senior.png
 urls:
   [
     {
