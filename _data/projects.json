@@ -126,7 +126,6 @@
 	{
 		"name": "Generador de horarios",
 		"image": "../img/proyectos/generadorHorarioEstudiante.png",
-		"url": "https://github.com/LuisReinoso/GeneradorHorarioEstudiante/releases/download/v1.0.0/GeneradorHorarios.jar",
 		"github": "https://github.com/LuisReinoso/GeneradorHorarioEstudiante",
 		"date": "Marzo 2016",
 		"tags": ["java", "inteligencia artificial"]
