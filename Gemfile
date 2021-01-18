@@ -10,4 +10,3 @@ end
 group :jekyll_plugins do
   gem "jekyll-gensocial"
 end
-gem 'jekyll-toc'

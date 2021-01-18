@@ -74,5 +74,4 @@ plugins:
   - jekyll-gist
   - jekyll-seo-tag
   - jemoji
-  - jekyll-toc
   - jekyll-gensocial
