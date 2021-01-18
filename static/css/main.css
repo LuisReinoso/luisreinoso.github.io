@@ -333,3 +333,7 @@ div.col-sm-2 img#about {
         display: none;
     }
 }
+
+.post p {
+    word-break: break-word;
+}
