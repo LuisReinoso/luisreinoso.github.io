@@ -46,7 +46,6 @@
         {% if page.image %}
         <meta name="twitter:image" content="{{ site.url }}/{{ page.image }}">
         {% else %}
-        <meta name="twitter:image" content="{{ site.url }}/static/img/avatar.png">
         {% endif %}
 
         <!-- Font awesome icons -->
@@ -85,7 +84,6 @@
         <div class="container-fluid">
           <div class="navbar-header">
             <a class="navbar-brand" href="/">
-              <img alt="profile" src="/static/img/avatar.png" height="auto" width="25em">
             </a>
             <ul class="nav navbar-nav navbar-links">
               {% for i in site.urls %}
@@ -98,7 +96,6 @@
       <div class="main-container">
 		<div class="info-sidebar col-sm-2">
 		    <div class="fixed-condition">
-			<a href="/"><img id="about" src="/static/img/avatar.png" height="auto" width="125em" /></a>
 			<h1 class="author-name">{{ site.author }}</h1>
 		{% if site.about %}
 			<div id="about">
