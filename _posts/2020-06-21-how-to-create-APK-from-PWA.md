@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How to create an APK from PWA?"
-description: "Build an Android TWA and publish on Google Play Store from PWA using llama pack"
+title: 'How to create an APK from PWA?'
+description: 'Build an Android TWA and publish on Google Play Store from PWA using llama pack'
 categories: [PWA]
 tags: [PWA]
 ---
@@ -72,6 +72,8 @@ Password for the Key: [hidden]
 
 * Create asset link
   Using package fingerprint (SHA256) inside app sign go to [Google Digital Asset Links](https://developers.google.com/digital-asset-links/tools/generator)
+
+  You will need the `App package fingerprint (SHA256)`, to get it search for `API Integrity` and `App Signing`.
 
 This will create a json then create a file named `assetlinks.json` and serve it from `https://my-twa.com/.well-known/assetlinks.json.`
 
