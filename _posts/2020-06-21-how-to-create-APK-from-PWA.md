@@ -6,6 +6,8 @@ categories: [PWA]
 tags: [PWA]
 ---
 
+## Prerequisites
+
 - Has PWA all ready **Important!**
 
 - Install llama pack dependencies
@@ -41,7 +43,7 @@ tags: [PWA]
   npm i -g @llama-pack/cli
   ```
 
-- Execute llama-pack
+## Execute llama-pack
 
 Provide `manifest.json` url or `manifest.webmanifest` file
 
@@ -80,11 +82,11 @@ This will create a json then create a file named `assetlinks.json` and serve it 
 Useful Checker
 https://digitalassetlinks.googleapis.com/v1/statements:list?source.web.site=https://www.your-website-name.com&relation=delegate_permission/common.handle_all_urls
 
-- Build apk
+## Build apk
 
-  ```console
-  llama-pack build
-  ```
+```console
+llama-pack build
+```
 
 This generate the `app-release-signed.apk`
 
