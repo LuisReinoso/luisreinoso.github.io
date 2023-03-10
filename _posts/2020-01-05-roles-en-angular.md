@@ -1,10 +1,14 @@
 ---
+title: Roles en Angular
+date: 2020-01-05 00:00:00 Z
+categories:
+- angular
+tags:
+- angular
 layout: post
-title: "Roles en Angular"
-description: "Cómo agregar roles en angular"
-categories: [angular]
-tags: [angular]
+description: Cómo agregar roles en angular
 ---
+
 Usar ngx-permissions para validar roles usuarios
 https://github.com/AlexKhymenko/ngx-permissions
 

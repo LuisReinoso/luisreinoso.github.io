@@ -1,7 +1,7 @@
 ---
-layout: project
 title: Proyectos
-permalink: /project/
+permalink: "/project/"
+layout: project
 ---
 
 Proyectos que he desarrollado.

@@ -1,9 +1,12 @@
 ---
+title: Migración a software libre progresiva
+date: 2016-03-28 00:00:00 Z
+categories:
+- software libre
+tags:
+- Software libre
 layout: post
-title: "Migración a software libre progresiva"
-description: "Sorpresa al encontrar softaware libre en un subcentro de salud público"
-categories: [software libre]
-tags: [Software libre]
+description: Sorpresa al encontrar softaware libre en un subcentro de salud público
 ---
 
 Me lleve una sorpresa al visitar un subcentro de salud público en el cual se utiliza software libre. Al parecer la migración es progresiva, pero muy silenciosa, lo interesante es que cada vez son más los lugares donde uno se encuentra con estas gratas sorpresas.

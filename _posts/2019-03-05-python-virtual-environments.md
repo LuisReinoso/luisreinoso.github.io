@@ -1,10 +1,18 @@
 ---
+title: python virtual environments
+date: 2019-03-05 00:00:00 Z
+categories:
+- python
+tags:
+- python
+- python virtual environment
+- python create virtual environment
+- python virtualenv
+- virtualenv
 layout: post
-title: "python virtual environments"
-description: "Referencia rápida para la creación de python virtual environments"
-categories: [python]
-tags: [python, python virtual environment, python create virtual environment, python virtualenv, virtualenv]
+description: Referencia rápida para la creación de python virtual environments
 ---
+
 Crea entornos virtuales de python para manejar los paquetes de forma local, de esta forma cuando hagas la instalación de otros paquetes en forma global no afecte tu entorno local.
 
 ## Instalación paquetes global

@@ -1,9 +1,13 @@
 ---
+title: HttpClient - Headers
+date: 2018-03-29 00:00:00 Z
+categories:
+- angular
+tags:
+- angular
+- http
 layout: post
-title: "HttpClient - Headers"
-description: "Uso de headers en con HttpClient"
-categories: [angular]
-tags: [angular, http]
+description: Uso de headers en con HttpClient
 ---
 
 Poner headers con el uso de HttpClient se realiza de la siguiente manera:

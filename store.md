@@ -1,7 +1,7 @@
 ---
-layout: store
 title: Tienda
-permalink: /store/
+permalink: "/store/"
+layout: store
 ---
 
 Productos premium.

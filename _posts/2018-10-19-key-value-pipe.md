@@ -1,9 +1,13 @@
 ---
+title: KeyValue - Pipe
+date: 2018-10-19 00:00:00 Z
+categories:
+- angular
+tags:
+- angular
+- pipe
 layout: post
-title: "KeyValue - Pipe"
-description: "Uso de KeyValue Pipe Angular"
-categories: [angular]
-tags: [angular, pipe]
+description: Uso de KeyValue Pipe Angular
 ---
 
 Con keyvalue puedo iterar sobre un objeto en combinación de un ngFor

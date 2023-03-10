@@ -1,10 +1,19 @@
 ---
+title: 'callbacks: ejemplo mundo real lodash - findIndex'
+date: 2019-02-27 00:00:00 Z
+categories:
+- javascript
+- learn from source code
+tags:
+- callbacks
+- source code
+- javascript
+- lodash
 layout: post
-title: "callbacks: ejemplo mundo real lodash - findIndex"
-description: "Learn from source code: Repaso conceptos javascript callbacks usando lodash findIndex"
-categories: [javascript, learn from source code]
-tags: [callbacks, source code, javascript, lodash]
+description: 'Learn from source code: Repaso conceptos javascript callbacks usando
+  lodash findIndex'
 ---
+
 El callback es una función que se pasa como argumento de otra función.
 
 Un ejemplo sencillo sería el siguiente

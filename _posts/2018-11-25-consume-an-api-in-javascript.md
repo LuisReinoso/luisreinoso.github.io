@@ -1,9 +1,14 @@
 ---
+title: Consume a Github api in javascript using sailsjs
+date: 2018-11-25 00:00:00 Z
+categories:
+- sailsjs
+tags:
+- sails
+- sailsjs
+- fetch
 layout: post
-title: "Consume a Github api in javascript using sailsjs"
-description: "Use sailjs to provide an api to consume another api"
-categories: [sailsjs]
-tags: [sails, sailsjs, fetch]
+description: Use sailjs to provide an api to consume another api
 ---
 
 This is a solution for a little test that I do.

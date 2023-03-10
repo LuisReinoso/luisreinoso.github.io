@@ -1,9 +1,14 @@
 ---
+title: Sobre mapas
+date: 2016-03-25 00:00:00 Z
+categories:
+- OpenStreetMap
+- mapas
+tags:
+- OpenStreetMap
+- mapas
 layout: post
-title: "Sobre mapas"
-description: "Un repaso de temas referentes a GIS y proyecto bicivilizate"
-categories: [OpenStreetMap, mapas]
-tags: [OpenStreetMap, mapas]
+description: Un repaso de temas referentes a GIS y proyecto bicivilizate
 ---
 
 Últimamente he tenido en el olvido los mapas, así que ahora que estuve revisando algunos documentos me encontré con lo que hace tiempo pretendía organizar.

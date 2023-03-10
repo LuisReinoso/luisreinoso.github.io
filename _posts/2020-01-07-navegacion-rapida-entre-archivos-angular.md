@@ -1,10 +1,14 @@
 ---
+title: Cómo navegar rápidamente entre archivos de proyectos de Angular en VSCode.
+date: 2020-01-07 00:00:00 Z
+categories:
+- angular
+tags:
+- angular
 layout: post
-title: "Cómo navegar rápidamente entre archivos de proyectos de Angular en VSCode."
-description: "La manera de acelerar el desarrollo en tus proyectos de Angular en VSCode"
-categories: [angular]
-tags: [angular]
+description: La manera de acelerar el desarrollo en tus proyectos de Angular en VSCode
 ---
+
 En base a mi experiencia esto depende de dos factores:
 - la estructura del proyecto.
 - el editor de texto que uses.

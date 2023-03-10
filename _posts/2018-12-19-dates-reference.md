@@ -1,9 +1,13 @@
 ---
+title: Date Object - Referencia
+date: 2018-12-19 00:00:00 Z
+categories:
+- javascript
+tags:
+- date
+- reference
 layout: post
-title: "Date Object - Referencia"
-description: "Referencia impresión date object"
-categories: [javascript]
-tags: [date, reference]
+description: Referencia impresión date object
 ---
 
 Esta referencia se basa en mostrar el valor de retorno para los métodos del objeto Date. Considerando que la fecha será la siguiente:

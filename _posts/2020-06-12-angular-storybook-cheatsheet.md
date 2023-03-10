@@ -1,10 +1,14 @@
 ---
+title: Angular storybook cheatsheet
+date: 2020-06-12 00:00:00 Z
+categories:
+- angular
+tags:
+- angular
 layout: post
-title: "Angular storybook cheatsheet"
-description: "Quickly reference how to use angular story book"
-categories: [angular]
-tags: [angular]
+description: Quickly reference how to use angular story book
 ---
+
 ## Installation
 
 ```console

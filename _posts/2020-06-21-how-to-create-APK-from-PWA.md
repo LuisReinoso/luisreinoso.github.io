@@ -1,9 +1,13 @@
 ---
+title: How to create an APK from PWA?
+date: 2020-06-21 00:00:00 Z
+categories:
+- PWA
+tags:
+- PWA
 layout: post
-title: 'How to create an APK from PWA?'
-description: 'Build an Android TWA and publish on Google Play Store from PWA using llama pack'
-categories: [PWA]
-tags: [PWA]
+description: Build an Android TWA and publish on Google Play Store from PWA using
+  llama pack
 ---
 
 ## Prerequisites

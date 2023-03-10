@@ -1,51 +1,35 @@
 ---
+title: 5 pasos para conseguir trabajo remoto como developer desde Ecuador sin ser
+  programador Senior
+date: 2020-05-29 00:00:00 Z
+categories:
+- blog
+tags:
+- blog
 layout: post
-title: "5 pasos para conseguir trabajo remoto como developer desde Ecuador sin ser programador Senior"
-description: "Pasos que debes seguir para conseguir trabajo remoto"
-categories: [blog]
-tags: [blog]
+description: Pasos que debes seguir para conseguir trabajo remoto
 toc: true
 image: static/img/social-post/5-pasos-para-conseguir-trabajo-remoto-como-developer-desde-Ecuador-sin-ser-programador-Senior.png
 urls:
-  [
-    {
-      url: "#crea-proyectos-de-software-libre-en-github",
-      text: "Crea proyectos de software libre en Github",
-    },
-		{
-      url: "#alimenta-tu-github",
-      text: "Alimenta tu github",
-    },
-		{
-      url: "#practica-inglés",
-      text: "Practica inglés",
-    },
-		{
-			url: "#un-cv-minimalista",
-			text: "Un cv minimalista"
-		},
-		{
-			url: "#aplica-al-empleo-que-deseas",
-			text: "Aplica al empleo que deseas"
-		},
-		{
-			url: "#al-azar",
-			text: "Al azar"
-		},
-		{
-			url: "#empresa-objetivo",
-			text: "Empresa objetivo"
-		},
-		{
-			url: "#cuenta-tu-historia-en-la-entrevista",
-			text: "Cuenta tu historia en la entrevista"
-		},
-		{
-			url: "#bonus",
-			text: "Bonus"
-		}
-  ]
-language: "es"
+- url: "#crea-proyectos-de-software-libre-en-github"
+  text: Crea proyectos de software libre en Github
+- url: "#alimenta-tu-github"
+  text: Alimenta tu github
+- url: "#practica-inglés"
+  text: Practica inglés
+- url: "#un-cv-minimalista"
+  text: Un cv minimalista
+- url: "#aplica-al-empleo-que-deseas"
+  text: Aplica al empleo que deseas
+- url: "#al-azar"
+  text: Al azar
+- url: "#empresa-objetivo"
+  text: Empresa objetivo
+- url: "#cuenta-tu-historia-en-la-entrevista"
+  text: Cuenta tu historia en la entrevista
+- url: "#bonus"
+  text: Bonus
+language: es
 ---
 
 ## Crea proyectos de software libre en Github.

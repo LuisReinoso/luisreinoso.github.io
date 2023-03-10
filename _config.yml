@@ -1,77 +1,71 @@
+---
 title: Ideario
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  project:
+    title: Project
+    output: true
+    permalink: "/project/:path/"
+  uploads:
+    title: Uploads
+    output: true
 description: Blog personal de Luis Reinoso
 author: Luis Reinoso
 github: https://github.com/luisreinoso
-about:
+about: 
 disqus_shortname: ideario
 google_analytics: UA-127486975-1
-
 enableTags: true
 tagarray: []
-
-collections:
-  project:
-    output: true
-    permalink: /project/:path/
-
 social:
-  #  - icon: fa-facebook
-  #    link: "#"
-  #  - icon: fa-skype
-  #    link: "#"
-     - icon: fa-twitter
-       link: "https://twitter.com/luisreinosodev"
-     - icon: fa-github
-       link: "https://github.com/luisreinoso"
-  #  - icon: fa-linkedin
-  #    link: "#"
-     - icon: fa-stack-overflow
-       link: "https://stackoverflow.com/users/9692156/luis-reinoso?tab=profile"
-
+- icon: fa-twitter
+  link: https://twitter.com/luisreinosodev
+- icon: fa-github
+  link: https://github.com/luisreinoso
+- icon: fa-stack-overflow
+  link: https://stackoverflow.com/users/9692156/luis-reinoso?tab=profile
 share:
   twitter_username: luisreinosodev
-  # fb_appid: 1749788565247320
-
 urls:
-    - text: Posts
-      url: /
-    - text: Proyectos
-      url: /project/
-    - text: Tienda
-      url: /store/
-    - text: Feed
-      url: /feed.xml
-
-url: "https://luisreinoso.dev"
-baseurl: ""
+- text: Posts
+  url: "/"
+- text: Proyectos
+  url: "/project/"
+- text: Tienda
+  url: "/store/"
+- text: Feed
+  url: "/feed.xml"
+url: https://luisreinoso.dev
+baseurl: ''
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
-
-jekyll-gensocial:     # These are the default settings
-  enabled: true       # Disables the output
-  size:               # The size of the overall canvas
+jekyll-gensocial:
+  enabled: true
+  size:
     width: 1920
     height: 1080
-  background:         # The background image
+  background:
     path: static/img/social-post.png
   text:
-    string: nil       # Overrides the post/page title
-    font_path: nil    # Path to your custom font
-    pointsize: 100    # Font size
-    fill: "#000000"   # Font color
-    rect:             # Text will appear inside this frame
+    string: nil
+    font_path: nil
+    pointsize: 100
+    fill: "#000000"
+    rect:
       size:
         width: 1600
         height: 500
       origin:
         x: 150
         y: 100
-
 markdown: kramdown
 plugins:
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-seo-tag
-  - jemoji
-  - jekyll-gensocial
+- jekyll-paginate
+- jekyll-gist
+- jekyll-seo-tag
+- jemoji
+- jekyll-gensocial
