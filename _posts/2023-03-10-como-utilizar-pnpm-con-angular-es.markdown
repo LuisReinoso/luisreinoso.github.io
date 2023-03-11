@@ -1,27 +1,27 @@
 ---
 title: Como utilizar pnpm con Angular
 date: 2023-03-10 00:46:00 Z
+permalink: "/how-to-use-angular/"
 categories:
-  - angular
-  - javascript
+- angular
+- javascript
 tags:
-  - pnpm
-  - npm
-  - JavaScript
-  - package manager
-  - dependency installation
-  - disk space
-  - development experience
-  - CI/CD
-  - installation speed
-  - symbolic links
-  - configuration options
-  - Angular CLI
-  - pnpm-lock.yaml
-  - package-lock.json
-  - shamefully-hoist
+- pnpm
+- npm
+- JavaScript
+- package manager
+- dependency installation
+- disk space
+- development experience
+- CI/CD
+- installation speed
+- symbolic links
+- configuration options
+- Angular CLI
+- pnpm-lock.yaml
+- package-lock.json
+- shamefully-hoist
 layout: post
-permalink: /how-to-use-angular/
 lang: es
 ---
 

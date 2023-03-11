@@ -8,41 +8,41 @@ collections:
   project:
     title: Project
     output: true
-    permalink: '/project/:path/'
+    permalink: "/project/:path/"
   uploads:
     title: Uploads
     output: true
 description: Blog personal de Luis Reinoso
 author: Luis Reinoso
 github: https://github.com/luisreinoso
-about:
+about: 
 disqus_shortname: ideario
-google_analytics: 'G-82JC86EH05'
+google_analytics: G-82JC86EH05
 enableTags: true
 tagarray: []
 social:
-  - icon: fa-twitter
-    link: https://twitter.com/luisreinosodev
-  - icon: fa-github
-    link: https://github.com/luisreinoso
-  - icon: fa-stack-overflow
-    link: https://stackoverflow.com/users/9692156/luis-reinoso?tab=profile
+- icon: fa-twitter
+  link: https://twitter.com/luisreinosodev
+- icon: fa-github
+  link: https://github.com/luisreinoso
+- icon: fa-stack-overflow
+  link: https://stackoverflow.com/users/9692156/luis-reinoso?tab=profile
 share:
   twitter_username: luisreinosodev
 urls:
-  - text: Posts
-    url: '/'
-  - text: Proyectos
-    url: '/project/'
-  - text: Tienda
-    url: '/store/'
-  - text: Feed
-    url: '/feed.xml'
+- text: Posts
+  url: "/"
+- text: Proyectos
+  url: "/project/"
+- text: Tienda
+  url: "/store/"
+- text: Feed
+  url: "/feed.xml"
 url: https://luisreinoso.dev
 baseurl: ''
 paginate: 20
 per_page: 20
-paginate_path: '/page:num/'
+paginate_path: "/page:num/"
 jekyll-gensocial:
   enabled: true
   size:
@@ -54,7 +54,7 @@ jekyll-gensocial:
     string: nil
     font_path: nil
     pointsize: 100
-    fill: '#000000'
+    fill: "#000000"
     rect:
       size:
         width: 1600
@@ -63,14 +63,20 @@ jekyll-gensocial:
         x: 150
         y: 100
 markdown: kramdown
-languages: ['en', 'es']
-default_lang: 'en'
-exclude_from_localization: ['javascript', 'images', 'css', 'public']
+languages:
+- en
+- es
+default_lang: en
+exclude_from_localization:
+- javascript
+- images
+- css
+- public
 parallel_localization: true
 plugins:
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-seo-tag
-  - jemoji
-  - jekyll-gensocial
-  - jekyll-polyglot
+- jekyll-paginate
+- jekyll-gist
+- jekyll-seo-tag
+- jemoji
+- jekyll-gensocial
+- jekyll-polyglot
