@@ -4,12 +4,9 @@ gem 'jekyll'
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 gem 'jemoji'
+
 group :jekyll_plugins do
   gem 'jekyll-pwa-plugin'
-end
-group :jekyll_plugins do
   gem "jekyll-gensocial"
-end
-group :jekyll_plugins do
-   gem "jekyll-polyglot"
+  gem "jekyll-polyglot"
 end

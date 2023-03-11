@@ -12,6 +12,13 @@ collections:
   uploads:
     title: Uploads
     output: true
+plugins:
+  - jekyll-polyglot
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-gensocial
 description: Blog personal de Luis Reinoso
 author: Luis Reinoso
 github: https://github.com/luisreinoso
@@ -67,10 +74,3 @@ languages: ['en', 'es']
 default_lang: 'en'
 exclude_from_localization: ['javascript', 'images', 'css', 'public']
 parallel_localization: true
-plugins:
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-seo-tag
-  - jemoji
-  - jekyll-gensocial
-  - jekyll-polyglot
