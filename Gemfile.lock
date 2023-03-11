@@ -129,6 +129,8 @@ GEM
     jekyll-optional-front-matter (0.3.2)
       jekyll (>= 3.0, < 5.0)
     jekyll-paginate (1.1.0)
+    jekyll-polyglot (1.5.1)
+      jekyll (>= 3.0)
     jekyll-pwa-plugin (2.2.3)
     jekyll-readme-index (0.3.0)
       jekyll (>= 3.0, < 5.0)
@@ -252,6 +254,7 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-gensocial
+  jekyll-polyglot
   jekyll-pwa-plugin
   jekyll-seo-tag
   jekyll-sitemap

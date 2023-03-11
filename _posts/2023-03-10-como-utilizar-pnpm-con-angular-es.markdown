@@ -2,11 +2,27 @@
 title: Como utilizar pnpm con Angular
 date: 2023-03-10 00:46:00 Z
 categories:
-- Angular
-- javascript
+  - angular
+  - javascript
 tags:
-- Angular
-- javascript
+  - pnpm
+  - npm
+  - JavaScript
+  - package manager
+  - dependency installation
+  - disk space
+  - development experience
+  - CI/CD
+  - installation speed
+  - symbolic links
+  - configuration options
+  - Angular CLI
+  - pnpm-lock.yaml
+  - package-lock.json
+  - shamefully-hoist
+layout: post
+permalink: /how-to-use-angular/
+lang: es
 ---
 
 ## Introducción
@@ -21,10 +37,10 @@ tags:
 
 ### Proyecto nuevo
 
-* Utilizar el angular CLI con pnpm para crear un nuevo proyecto
+- Utilizar el angular CLI con pnpm para crear un nuevo proyecto
   `pnpm --package=@angular/cli dlx ng new amazing-project --package-manager pnpm`\\
 
-* El angular CLI nos preguntara las opciones de configuración y finalmente instala el proyecto
+- El angular CLI nos preguntara las opciones de configuración y finalmente instala el proyecto
   ![Install Angular with pnpm.png](/uploads/Install%20Angular%20with%20pnpm.png)
 
 Al abrir el proyecto podemos ver el archivo `pnpm-lock.yaml`
@@ -32,12 +48,12 @@ Al abrir el proyecto podemos ver el archivo `pnpm-lock.yaml`
 
 ### Proyecto existente con npm
 
-* Ejecuta el comando de `pnpm install` y automáticamente creara el archivo `pnpm-lock.yaml`
+- Ejecuta el comando de `pnpm install` y automáticamente creara el archivo `pnpm-lock.yaml`
 
-* Luego de eso borrar el archivo `package-lock.json`
+- Luego de eso borrar el archivo `package-lock.json`
   `rm package-lock.json`
 
-* Ejecutar `pnpm start` para confirmar que todo funciona correctamente
+- Ejecutar `pnpm start` para confirmar que todo funciona correctamente
 
 En caso de que el proyecto no funcione hay la opción de instalar las dependencias respetando las diferentes versiones requeridas por los paquetes mediante
 `pnpm install --shamefully-hoist=true`
@@ -46,11 +62,11 @@ En caso de que el proyecto no funcione hay la opción de instalar las dependenci
 
 Considerando:
 
-* hemos instalado por primera vez el proyecto utilizando npm y pnpm.
+- hemos instalado por primera vez el proyecto utilizando npm y pnpm.
 
-* existen los archivos `package-lock.json` y `pnpm-lock.yaml`
+- existen los archivos `package-lock.json` y `pnpm-lock.yaml`
 
-* la carpeta node_modules no se encuentra en el proyecto
+- la carpeta node_modules no se encuentra en el proyecto
 
 #### Instalación con npm
 
@@ -68,14 +84,15 @@ Debido a que pnpm almacena las dependencias en un solo sitio y crea enlaces simb
 
 ## Conclusiones
 
-* La instalación de un proyecto es definitivamente mas rápido con pnpm que con npm
+- La instalación de un proyecto es definitivamente mas rápido con pnpm que con npm
 
-* La experiencia de desarrollo mejora al esperar menos tiempo en instalar las dependencias
+- La experiencia de desarrollo mejora al esperar menos tiempo en instalar las dependencias
 
-* Reducir el tiempo de instalación también reduce el costo por servicios de CI/CD
+- Reducir el tiempo de instalación también reduce el costo por servicios de CI/CD
 
 ## Referencias
-* [pnpm motivation](https://pnpm.io/motivation#saving-disk-space-and-boosting-installation-speed)
-* [pnpm shamefully-hoist](https://pnpm.io/npmrc#shamefully-hoist)
 
-* [pnpm install](https://pnpm.io/cli/install)
+- [pnpm motivation](https://pnpm.io/motivation#saving-disk-space-and-boosting-installation-speed)
+- [pnpm shamefully-hoist](https://pnpm.io/npmrc#shamefully-hoist)
+
+- [pnpm install](https://pnpm.io/cli/install)

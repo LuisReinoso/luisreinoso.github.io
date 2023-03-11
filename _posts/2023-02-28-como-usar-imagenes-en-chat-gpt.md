@@ -2,11 +2,11 @@
 title: Como usar images en Chat GPT
 date: 2023-02-28 00:00:00 Z
 categories:
-- Chat GPT
-- Prompt Engineering
+  - chat GPT
+  - prompt engineering
 tags:
-- Chat GPT
-- OpenAI
+  - chat GPT
+  - openAI
 layout: post
 description: Conoce cómo utilizar imágenes en Chat GPT con un ejemplo.
 ---
