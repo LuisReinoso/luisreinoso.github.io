@@ -24,7 +24,7 @@ author: Luis Reinoso
 github: https://github.com/luisreinoso
 about:
 disqus_shortname: ideario
-google_analytics: 'G-82JC86EH05'
+google_analytics: G-82JC86EH05
 enableTags: true
 tagarray: []
 social:
@@ -70,7 +70,13 @@ jekyll-gensocial:
         x: 150
         y: 100
 markdown: kramdown
-languages: ['en', 'es']
-default_lang: 'en'
-exclude_from_localization: ['javascript', 'images', 'css', 'public']
+languages:
+  - en
+  - es
+default_lang: en
+exclude_from_localization:
+  - javascript
+  - images
+  - css
+  - public
 parallel_localization: true

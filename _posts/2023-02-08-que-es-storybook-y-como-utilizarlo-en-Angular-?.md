@@ -2,12 +2,11 @@
 title: Que es storybook y como utilizarlo en Angular?
 date: 2023-02-08 00:00:00 Z
 categories:
-  - angular
+- angular
 tags:
-  - angular
+- angular
 layout: post
-description:
-  Storybook permite desarrollar la parte interfaz grafica de manera aislada,
+description: Storybook permite desarrollar la parte interfaz grafica de manera aislada,
   aprende como utilizarlo en Angular aqui.
 ---
 
