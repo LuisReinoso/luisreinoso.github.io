@@ -144,12 +144,8 @@
             <div class="language-options">
               {% for lang in site.languages %}
               <a
-                {%
-                static_href
-                %}href="{% if lang == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ lang }}{{page.url}}{% endif %}"
-                {%
-                endstatic_href
-                %}
+                {%static_href%}href="{% if lang == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ lang }}{{page.url}}{% endif %}"
+                {%endstatic_href%}
                 >{{ lang }}</a
               >
               {% endfor %}
