@@ -8,5 +8,4 @@ gem 'jemoji'
 group :jekyll_plugins do
   gem 'jekyll-pwa-plugin'
   gem "jekyll-gensocial"
-  gem "jekyll-polyglot"
 end

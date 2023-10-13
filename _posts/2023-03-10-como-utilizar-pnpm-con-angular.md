@@ -22,7 +22,6 @@ tags:
 - package-lock.json
 - shamefully-hoist
 layout: post
-lang: es
 ---
 
 ## Introducción
