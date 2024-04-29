@@ -43,7 +43,7 @@ urls:
 - text: Feed
   url: "/feed.xml"
 url: https://luisreinoso.dev
-baseurl:  
+baseurl: 
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
