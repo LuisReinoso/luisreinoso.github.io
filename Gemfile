@@ -6,6 +6,6 @@ gem 'jekyll-sitemap'
 gem 'jemoji'
 
 group :jekyll_plugins do
-  gem 'jekyll-pwa-plugin'
   gem "jekyll-gensocial"
 end
+gem "webrick", "~> 1.8"
