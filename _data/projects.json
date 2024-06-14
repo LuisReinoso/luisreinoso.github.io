@@ -1,5 +1,32 @@
 [
 	{
+		"name": "Nómada events",
+		"image": "../img/proyectos/nomada-events.gif",
+		"url": "https://nomada.events/",
+		"date": "Diciembre 2023",
+		"tags": ["supabase", "inteligencia artificial"]
+	},
+	{
+		"name": "mirror-hours",
+		"image": "../img/proyectos/mirror-hours.gif",
+		"date": "Marzo 2023",
+		"tags": ["supabase", "inteligencia artificial"]
+	},
+	{
+		"name": "family-talk",
+		"image": "../img/proyectos/family-talk.gif",
+		"url": "https://family-talk-jr-home.web.app/",
+		"date": "Enero 2023",
+		"tags": ["angular", "inteligencia artificial"]
+	},
+	{
+		"name": "habit-tracker",
+		"image": "../img/proyectos/habit-tracker.gif",
+		"url": "https://habits-tracker-9049c.web.app/",
+		"date": "Marzo 2021",
+		"tags": ["angular", "typescript", "firebase"]
+	},
+	{
 		"name": "jest-argos-gnome-extension",
 		"image": "../img/proyectos/jest-argos-gnome-extension.gif",
 		"github": "https://github.com/LuisReinoso/jest-argos-gnome-extension",
@@ -21,6 +48,13 @@
 		"github": "https://github.com/LuisReinoso/ng-filename-parser",
 		"date": "Enero 2021",
 		"tags": ["angular", "typescript"]
+	},
+	{
+		"name": "Open mercadito",
+		"image": "../img/proyectos/open-mercadito-app.gif",
+		"url": "https://open-mercadito-app.web.app/",
+		"date": "Octubre 2020",
+		"tags": ["angular", "typescript", "firebase"]
 	},
 	{
 		"name": "covid-19-community-tracker",
@@ -45,6 +79,7 @@
 		"image": "../img/proyectos/upload-file-cli.png",
 		"url": "https://www.npmjs.com/package/upload-file-cli",
 		"github": "https://github.com/LuisReinoso/upload-file-cli",
+		"stars": 2,
 		"date": "Septiembre 2019",
 		"tags": ["nodejs", "javascript"]
 	},
@@ -62,6 +97,7 @@
 		"image": "../img/proyectos/cli-watson.png",
 		"url": null,
 		"github": "https://github.com/LuisReinoso/tts-watson",
+		"stars": 1,
 		"date": "Marzo 2019",
 		"tags": ["nodejs", "javascript"]
 	},
@@ -70,7 +106,7 @@
 		"image": "../img/proyectos/git-history-browser-extension.png",
 		"url": "https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf",
 		"github": "https://github.com/LuisReinoso/git-history-browser-extension",
-		"stars": 85,
+		"stars": 111,
 		"date": "Febrero 2019",
 		"tags": ["javascript", "browser extension"]
 	},
@@ -81,7 +117,7 @@
 		"github": "https://github.com/LuisReinoso/plazas-rural-ec",
 		"stars": 1,
 		"date": "Diciembre 2018",
-		"tags": ["angular", "nodejs", "sailsjs", "javascript"]
+		"tags": ["angular", "nodejs", "sailsjs"]
 	},
 	{
 		"name": "ngx-changelog",
@@ -96,6 +132,7 @@
 		"image": "../img/proyectos/waterline-query-language-parser.png",
 		"url": "https://www.npmjs.com/package/waterline-query-language-parser",
 		"github": "https://github.com/LuisReinoso/waterline-query-language-parser",
+		"stars": 1,
 		"date": "Junio 2018",
 		"tags": ["nodejs", "sailsjs", "javascript"]
 	},
