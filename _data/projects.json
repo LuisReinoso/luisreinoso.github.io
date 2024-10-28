@@ -7,24 +7,11 @@
 		"tags": ["supabase", "inteligencia artificial"]
 	},
 	{
-		"name": "mirror-hours",
-		"image": "../img/proyectos/mirror-hours.gif",
-		"date": "Marzo 2023",
-		"tags": ["supabase", "inteligencia artificial"]
-	},
-	{
 		"name": "family-talk",
 		"image": "../img/proyectos/family-talk.gif",
 		"url": "https://family-talk-jr-home.web.app/",
 		"date": "Enero 2023",
 		"tags": ["angular", "inteligencia artificial"]
-	},
-	{
-		"name": "habit-tracker",
-		"image": "../img/proyectos/habit-tracker.gif",
-		"url": "https://habits-tracker-9049c.web.app/",
-		"date": "Marzo 2021",
-		"tags": ["angular", "typescript", "firebase"]
 	},
 	{
 		"name": "jest-argos-gnome-extension",
