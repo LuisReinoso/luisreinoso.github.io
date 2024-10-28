@@ -19,6 +19,7 @@
 h3.project-headlines {
     margin: 5px 0;
     font-size: 20px;
+    height: 45px;
 }
 span.tags {
     font-size: 10px;
@@ -73,6 +74,9 @@ span.tag-cloud {
 }
 .tag-cloud.active{
     background: #ccc;
+}
+.project-item {
+    width: 230px;
 }
 .project-item.not-show{ display: none; }
 
