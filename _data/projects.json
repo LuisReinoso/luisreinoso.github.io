@@ -1,165 +1,197 @@
 [
-	{
-		"name": "Nómada events",
-		"image": "../img/proyectos/nomada-events.gif",
-		"url": "https://nomada.events/",
-		"date": "Diciembre 2023",
-		"tags": ["supabase", "inteligencia artificial"]
-	},
-	{
-		"name": "family-talk",
-		"image": "../img/proyectos/family-talk.gif",
-		"url": "https://family-talk-jr-home.web.app/",
-		"date": "Enero 2023",
-		"tags": ["angular", "inteligencia artificial"]
-	},
-	{
-		"name": "jest-argos-gnome-extension",
-		"image": "../img/proyectos/jest-argos-gnome-extension.gif",
-		"github": "https://github.com/LuisReinoso/jest-argos-gnome-extension",
-		"date": "Enero 2021",
-		"tags": ["shell script", "jest", "linux"]
-	},
-	{
-		"name": "vscode-ng-file-switcher",
-		"image": "../img/proyectos/vscode-ng-file-switcher.gif",
-		"url": "https://marketplace.visualstudio.com/items?itemName=luisreinosodev.vscode-ng-file-switcher",
-		"github": "https://github.com/LuisReinoso/vscode-ng-file-switcher",
-		"date": "Enero 2021",
-		"tags": ["angular", "typescript", "vscode"]
-	},
-	{
-		"name": "ng-filename-parser",
-		"image": "../img/proyectos/ng-filename-parser.png",
-		"url": "https://www.npmjs.com/package/ng-filename-parser",
-		"github": "https://github.com/LuisReinoso/ng-filename-parser",
-		"date": "Enero 2021",
-		"tags": ["angular", "typescript"]
-	},
-	{
-		"name": "Open mercadito",
-		"image": "../img/proyectos/open-mercadito-app.gif",
-		"url": "https://open-mercadito-app.web.app/",
-		"date": "Octubre 2020",
-		"tags": ["angular", "typescript", "firebase"]
-	},
-	{
-		"name": "covid-19-community-tracker",
-		"image": "../img/proyectos/covid-19-community-tracker.png",
-		"url": "https://community-tracker-covid-19.firebaseapp.com/",
-		"github": "https://github.com/LuisReinoso/covid-19-community-tracker",
-		"stars": 1,
-		"date": "Marzo 2020",
-		"tags": ["angular", "typescript", "firebase"]
-	},
-	{
-		"name": "ng-stories-schematics",
-		"image": "../img/proyectos/ng-stories-schematics.png",
-		"url": "https://www.npmjs.com/package/ng-stories-schematics",
-		"github": "https://github.com/LuisReinoso/ng-stories-schematics",
-		"stars": 1,
-		"date": "Marzo 2020",
-		"tags": ["angular", "typescript"]
-	},
-	{
-		"name": "upload-file-cli",
-		"image": "../img/proyectos/upload-file-cli.png",
-		"url": "https://www.npmjs.com/package/upload-file-cli",
-		"github": "https://github.com/LuisReinoso/upload-file-cli",
-		"stars": 2,
-		"date": "Septiembre 2019",
-		"tags": ["nodejs", "javascript"]
-	},
-	{
-		"name": "css-selector-game",
-		"image": "../img/proyectos/css-selector-game.png",
-		"url": "https://luisreinoso.github.io/css-selector-game/",
-		"github": "https://github.com/LuisReinoso/css-selector-game",
-		"stars": 2,
-		"date": "Agosto 2019",
-		"tags": ["nodejs", "javascript", "svelte"]
-	},
-	{
-		"name": "CLI Text-To-Speech Watson",
-		"image": "../img/proyectos/cli-watson.png",
-		"url": null,
-		"github": "https://github.com/LuisReinoso/tts-watson",
-		"stars": 1,
-		"date": "Marzo 2019",
-		"tags": ["nodejs", "javascript"]
-	},
-	{
-		"name": "Browser Extensión",
-		"image": "../img/proyectos/git-history-browser-extension.png",
-		"url": "https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf",
-		"github": "https://github.com/LuisReinoso/git-history-browser-extension",
-		"stars": 111,
-		"date": "Febrero 2019",
-		"tags": ["javascript", "browser extension"]
-	},
-	{
-		"name": "Plazas rural ec",
-		"image": "../img/proyectos/plazas-rural-ec.png",
-		"url": "https://plazas-rural-ec-medicina.now.sh/",
-		"github": "https://github.com/LuisReinoso/plazas-rural-ec",
-		"stars": 1,
-		"date": "Diciembre 2018",
-		"tags": ["angular", "nodejs", "sailsjs"]
-	},
-	{
-		"name": "ngx-changelog",
-		"image": "../img/proyectos/ngx-changelog.png",
-		"url": "https://luisreinoso.github.io/ngx-changelog",
-		"github": "https://github.com/luisreinoso/ngx-changelog",
-		"date": "Septiembre 2018",
-		"tags": ["angular", "nodejs", "javascript"]
-	},
-	{
-		"name": "Waterline Query Parser",
-		"image": "../img/proyectos/waterline-query-language-parser.png",
-		"url": "https://www.npmjs.com/package/waterline-query-language-parser",
-		"github": "https://github.com/LuisReinoso/waterline-query-language-parser",
-		"stars": 1,
-		"date": "Junio 2018",
-		"tags": ["nodejs", "sailsjs", "javascript"]
-	},
-	{
-		"name": "time-to-days",
-		"image": "../img/proyectos/time-to-days.png",
-		"url": "https://npm.runkit.com/time-to-days",
-		"github": "https://github.com/LuisReinoso/time-to-days",
-		"date": "Junio 2018",
-		"tags": ["javascript"]
-	},
-	{
-		"name": "bitmask",
-		"image": "../img/proyectos/bitmask.png",
-		"url": null,
-		"github": "https://github.com/LuisReinoso/Bitmask",
-		"date": "Abril 2018",
-		"tags": ["javascript", "typescript"]
-	},
-	{
-		"name": "generator-angular-sails",
-		"image": "../img/proyectos/generator-angular-sails.png",
-		"url": null,
-		"github": "https://github.com/LuisReinoso/generator-angular-sails",
-		"date": "Febrero 2018",
-		"tags": ["javascript", "angular"]
-	},
-	{
-		"name": "Generador de horarios",
-		"image": "../img/proyectos/generadorHorarioEstudiante.png",
-		"github": "https://github.com/LuisReinoso/GeneradorHorarioEstudiante",
-		"date": "Marzo 2016",
-		"tags": ["java", "inteligencia artificial"]
-	},
-	{
-		"name": "Battery Alert",
-		"image": "../img/proyectos/batteryAlert.png",
-		"url": null,
-		"github": "https://github.com/LuisReinoso/BatteryAlert",
-		"date": "Agosto 2015",
-		"tags": ["shell script", "linux"]
-	}
+  {
+    "name": "GitHub Stars Semantic Search",
+    "image": "../img/proyectos/github-stars-rag.png",
+    "url": "https://luisreinoso.dev/github-stars-semantic-search",
+    "github": "https://github.com/luisreinoso/github-stars-semantic-search",
+    "date": "Diciembre 2024",
+    "tags": ["inteligencia artificial"],
+    "stars": "6"
+  },
+  {
+    "name": "Emotional Transmutation",
+    "image": "../img/proyectos/emotional-transmutation.gif",
+    "url": "https://luisreinoso.dev/emotional-transmutation",
+    "github": "https://github.com/LuisReinoso/emotional-transmutation",
+    "date": "Diciembre 2024",
+    "tags": ["inteligencia artificial"]
+  },
+  {
+    "name": "gnome-pomodoro-music",
+    "image": "../img/proyectos/pomodoro-config.png",
+    "github": "https://github.com/LuisReinoso/gnome-pomodoro-music",
+    "date": "Diciembre 2024",
+    "tags": ["shell script", "linux"]
+  },
+  {
+    "name": "Task Manager",
+    "image": "../img/proyectos/task-manager.gif",
+    "url": "https://github.com/LuisReinoso/task-manager",
+    "github": "https://github.com/LuisReinoso/task-manager",
+    "date": "Octubre 2024",
+    "tags": ["electron", "inteligencia artificial"]
+  },
+  {
+    "name": "Nómada events",
+    "image": "../img/proyectos/nomada-events.gif",
+    "url": "https://nomada.events/",
+    "date": "Diciembre 2023",
+    "tags": ["supabase", "inteligencia artificial"]
+  },
+  {
+    "name": "family-talk",
+    "image": "../img/proyectos/family-talk.gif",
+    "url": "https://family-talk-jr-home.web.app/",
+    "date": "Enero 2023",
+    "tags": ["angular", "inteligencia artificial"]
+  },
+  {
+    "name": "jest-argos-gnome-extension",
+    "image": "../img/proyectos/jest-argos-gnome-extension.gif",
+    "github": "https://github.com/LuisReinoso/jest-argos-gnome-extension",
+    "date": "Enero 2021",
+    "tags": ["shell script", "jest", "linux"]
+  },
+  {
+    "name": "vscode-ng-file-switcher",
+    "image": "../img/proyectos/vscode-ng-file-switcher.gif",
+    "url": "https://marketplace.visualstudio.com/items?itemName=luisreinosodev.vscode-ng-file-switcher",
+    "github": "https://github.com/LuisReinoso/vscode-ng-file-switcher",
+    "date": "Enero 2021",
+    "tags": ["angular", "typescript", "vscode"]
+  },
+  {
+    "name": "ng-filename-parser",
+    "image": "../img/proyectos/ng-filename-parser.png",
+    "url": "https://www.npmjs.com/package/ng-filename-parser",
+    "github": "https://github.com/LuisReinoso/ng-filename-parser",
+    "date": "Enero 2021",
+    "tags": ["angular", "typescript"]
+  },
+  {
+    "name": "Open mercadito",
+    "image": "../img/proyectos/open-mercadito-app.gif",
+    "url": "https://open-mercadito-app.web.app/",
+    "date": "Octubre 2020",
+    "tags": ["angular", "typescript", "firebase"]
+  },
+  {
+    "name": "covid-19-community-tracker",
+    "image": "../img/proyectos/covid-19-community-tracker.png",
+    "url": "https://community-tracker-covid-19.firebaseapp.com/",
+    "github": "https://github.com/LuisReinoso/covid-19-community-tracker",
+    "stars": 1,
+    "date": "Marzo 2020",
+    "tags": ["angular", "typescript", "firebase"]
+  },
+  {
+    "name": "ng-stories-schematics",
+    "image": "../img/proyectos/ng-stories-schematics.png",
+    "url": "https://www.npmjs.com/package/ng-stories-schematics",
+    "github": "https://github.com/LuisReinoso/ng-stories-schematics",
+    "stars": 1,
+    "date": "Marzo 2020",
+    "tags": ["angular", "typescript"]
+  },
+  {
+    "name": "upload-file-cli",
+    "image": "../img/proyectos/upload-file-cli.png",
+    "url": "https://www.npmjs.com/package/upload-file-cli",
+    "github": "https://github.com/LuisReinoso/upload-file-cli",
+    "stars": 2,
+    "date": "Septiembre 2019",
+    "tags": ["nodejs", "javascript"]
+  },
+  {
+    "name": "css-selector-game",
+    "image": "../img/proyectos/css-selector-game.png",
+    "url": "https://luisreinoso.github.io/css-selector-game/",
+    "github": "https://github.com/LuisReinoso/css-selector-game",
+    "stars": 2,
+    "date": "Agosto 2019",
+    "tags": ["nodejs", "javascript", "svelte"]
+  },
+  {
+    "name": "CLI Text-To-Speech Watson",
+    "image": "../img/proyectos/cli-watson.png",
+    "url": null,
+    "github": "https://github.com/LuisReinoso/tts-watson",
+    "stars": 1,
+    "date": "Marzo 2019",
+    "tags": ["nodejs", "javascript"]
+  },
+  {
+    "name": "Browser Extensión",
+    "image": "../img/proyectos/git-history-browser-extension.png",
+    "url": "https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf",
+    "github": "https://github.com/LuisReinoso/git-history-browser-extension",
+    "stars": 111,
+    "date": "Febrero 2019",
+    "tags": ["javascript", "browser extension"]
+  },
+  {
+    "name": "Plazas rural ec",
+    "image": "../img/proyectos/plazas-rural-ec.png",
+    "url": "https://plazas-rural-ec-medicina.now.sh/",
+    "github": "https://github.com/LuisReinoso/plazas-rural-ec",
+    "stars": 1,
+    "date": "Diciembre 2018",
+    "tags": ["angular", "nodejs", "sailsjs"]
+  },
+  {
+    "name": "ngx-changelog",
+    "image": "../img/proyectos/ngx-changelog.png",
+    "url": "https://luisreinoso.github.io/ngx-changelog",
+    "github": "https://github.com/luisreinoso/ngx-changelog",
+    "date": "Septiembre 2018",
+    "tags": ["angular", "nodejs", "javascript"]
+  },
+  {
+    "name": "Waterline Query Parser",
+    "image": "../img/proyectos/waterline-query-language-parser.png",
+    "url": "https://www.npmjs.com/package/waterline-query-language-parser",
+    "github": "https://github.com/LuisReinoso/waterline-query-language-parser",
+    "stars": 1,
+    "date": "Junio 2018",
+    "tags": ["nodejs", "sailsjs", "javascript"]
+  },
+  {
+    "name": "time-to-days",
+    "image": "../img/proyectos/time-to-days.png",
+    "url": "https://npm.runkit.com/time-to-days",
+    "github": "https://github.com/LuisReinoso/time-to-days",
+    "date": "Junio 2018",
+    "tags": ["javascript"]
+  },
+  {
+    "name": "bitmask",
+    "image": "../img/proyectos/bitmask.png",
+    "url": null,
+    "github": "https://github.com/LuisReinoso/Bitmask",
+    "date": "Abril 2018",
+    "tags": ["javascript", "typescript"]
+  },
+  {
+    "name": "generator-angular-sails",
+    "image": "../img/proyectos/generator-angular-sails.png",
+    "url": null,
+    "github": "https://github.com/LuisReinoso/generator-angular-sails",
+    "date": "Febrero 2018",
+    "tags": ["javascript", "angular"]
+  },
+  {
+    "name": "Generador de horarios",
+    "image": "../img/proyectos/generadorHorarioEstudiante.png",
+    "github": "https://github.com/LuisReinoso/GeneradorHorarioEstudiante",
+    "date": "Marzo 2016",
+    "tags": ["java", "inteligencia artificial"]
+  },
+  {
+    "name": "Battery Alert",
+    "image": "../img/proyectos/batteryAlert.png",
+    "url": null,
+    "github": "https://github.com/LuisReinoso/BatteryAlert",
+    "date": "Agosto 2015",
+    "tags": ["shell script", "linux"]
+  }
 ]
