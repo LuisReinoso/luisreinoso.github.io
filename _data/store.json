@@ -1,10 +1,19 @@
 [
-	{
-		"name": "Open Mercadito",
-		"image": "../img/store/open-mercadito-logo.jpeg",
-		"url": "https://openmercadito.com",
-		"date": "Junio 2020",
+  {
+    "name": "Open Mercadito",
+    "image": "../img/store/open-mercadito-logo.jpeg",
+    "url": "https://openmercadito.com",
+    "date": "Junio 2020",
     "tags": ["angular"],
     "buyUrl": "https://gum.co/open-mercadito"
-	}
+  },
+  {
+    "name": "Copy Console",
+    "image": "../img/proyectos/copy-console.gif",
+    "url": "https://luisreinoso.dev/copy-console-browser-extension/",
+    "github": "https://github.com/LuisReinoso/copy-console-browser-extension",
+    "date": "Enero 2025",
+    "tags": ["browser extension"],
+    "buyUrl": "https://luisreinosodev.lemonsqueezy.com/buy/34bfb707-eca5-47d4-b775-f6e840043002?discount=0"
+  }
 ]

@@ -1,12 +1,21 @@
 [
   {
+    "name": "Copy Console",
+    "image": "../img/proyectos/copy-console.gif",
+    "url": "https://luisreinoso.dev/copy-console-browser-extension/",
+    "github": "https://github.com/LuisReinoso/copy-console-browser-extension",
+    "date": "Enero 2025",
+    "tags": ["browser extension"],
+    "stars": "1"
+  },
+  {
     "name": "GitHub Stars Semantic Search",
     "image": "../img/proyectos/github-stars-rag.png",
     "url": "https://luisreinoso.dev/github-stars-semantic-search",
     "github": "https://github.com/luisreinoso/github-stars-semantic-search",
     "date": "Diciembre 2024",
     "tags": ["inteligencia artificial"],
-    "stars": "6"
+    "stars": "49"
   },
   {
     "name": "Emotional Transmutation",
@@ -21,7 +30,8 @@
     "image": "../img/proyectos/pomodoro-config.png",
     "github": "https://github.com/LuisReinoso/gnome-pomodoro-music",
     "date": "Diciembre 2024",
-    "tags": ["shell script", "linux"]
+    "tags": ["shell script", "linux"],
+    "stars": "1"
   },
   {
     "name": "Task Manager",
@@ -125,7 +135,7 @@
     "image": "../img/proyectos/git-history-browser-extension.png",
     "url": "https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf",
     "github": "https://github.com/LuisReinoso/git-history-browser-extension",
-    "stars": 111,
+    "stars": 113,
     "date": "Febrero 2019",
     "tags": ["javascript", "browser extension"]
   },
