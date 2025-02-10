@@ -1,6 +1,6 @@
 ---
 title: Cómo utilizar MCP Server con Supabase y Cursor
-date: 2024-02-10 00:46:00 Z
+date: 2024-02-09 19:46:00 -05:00
 permalink: "/how-to-use-mcp-server-supabase/"
 categories:
 - mcp-server
@@ -10,7 +10,7 @@ categories:
 - agente
 - normal
 - query string
-- postgres  
+- postgres
 - mcp server
 tags:
 - mcp-server
