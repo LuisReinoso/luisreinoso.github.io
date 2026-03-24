@@ -161,7 +161,6 @@
   {
     "name": "css-selector-game",
     "image": "../img/proyectos/css-selector-game.png",
-    "url": "https://luisreinoso.github.io/css-selector-game/",
     "github": "https://github.com/LuisReinoso/css-selector-game",
     "stars": 2,
     "date": "Agosto 2019",
@@ -179,7 +178,7 @@
   {
     "name": "Browser Extensión",
     "image": "../img/proyectos/git-history-browser-extension.png",
-    "url": "https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf",
+    "url": "https://chromewebstore.google.com/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf",
     "github": "https://github.com/LuisReinoso/git-history-browser-extension",
     "stars": 119,
     "date": "Febrero 2019",
@@ -188,7 +187,6 @@
   {
     "name": "Plazas rural ec",
     "image": "../img/proyectos/plazas-rural-ec.png",
-    "url": "https://plazas-rural-ec-medicina.now.sh/",
     "github": "https://github.com/LuisReinoso/plazas-rural-ec",
     "stars": 1,
     "date": "Diciembre 2018",
@@ -214,7 +212,6 @@
   {
     "name": "time-to-days",
     "image": "../img/proyectos/time-to-days.png",
-    "url": "https://npm.runkit.com/time-to-days",
     "github": "https://github.com/LuisReinoso/time-to-days",
     "date": "Junio 2018",
     "tags": ["javascript"]
