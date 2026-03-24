@@ -1,12 +1,43 @@
 [
   {
+    "name": "Manzanitos",
+    "image": "../img/proyectos/administracion-comida-manzanitos.png",
+    "url": "https://luisreinoso.dev/administracion-comida-manzanitos/",
+    "github": "https://github.com/LuisReinoso/administracion-comida-manzanitos",
+    "date": "Marzo 2026",
+    "tags": ["pwa", "javascript"]
+  },
+  {
+    "name": "Budget Builder",
+    "image": "../img/proyectos/budget-builder.png",
+    "url": "https://budget-builder-delta.vercel.app/",
+    "github": "https://github.com/LuisReinoso/budget-builder",
+    "date": "Enero 2026",
+    "tags": ["angular", "typescript", "tailwind"]
+  },
+  {
+    "name": "Obsidian Speed Reading",
+    "image": "../img/proyectos/obsidian-speed-reading.gif",
+    "github": "https://github.com/LuisReinoso/obsidian-speed-reading",
+    "date": "Abril 2025",
+    "tags": ["typescript", "obsidian"]
+  },
+  {
+    "name": "What Is My Tech Stack",
+    "image": "../img/proyectos/what-is-my-tech-stack.gif",
+    "url": "https://www.npmjs.com/package/what-is-my-tech-stack",
+    "github": "https://github.com/LuisReinoso/what-is-my-tech-stack",
+    "date": "Febrero 2025",
+    "tags": ["typescript", "inteligencia artificial", "nodejs"]
+  },
+  {
     "name": "Copy Console",
     "image": "../img/proyectos/copy-console.gif",
     "url": "https://luisreinoso.dev/copy-console-browser-extension/",
     "github": "https://github.com/LuisReinoso/copy-console-browser-extension",
     "date": "Enero 2025",
     "tags": ["browser extension"],
-    "stars": "1"
+    "stars": "2"
   },
   {
     "name": "GitHub Stars Semantic Search",
@@ -15,7 +46,7 @@
     "github": "https://github.com/luisreinoso/github-stars-semantic-search",
     "date": "Diciembre 2024",
     "tags": ["inteligencia artificial"],
-    "stars": "49"
+    "stars": "63"
   },
   {
     "name": "Emotional Transmutation",
@@ -30,8 +61,7 @@
     "image": "../img/proyectos/pomodoro-config.png",
     "github": "https://github.com/LuisReinoso/gnome-pomodoro-music",
     "date": "Diciembre 2024",
-    "tags": ["shell script", "linux"],
-    "stars": "1"
+    "tags": ["shell script", "linux"]
   },
   {
     "name": "Task Manager",
@@ -39,7 +69,8 @@
     "url": "https://github.com/LuisReinoso/task-manager",
     "github": "https://github.com/LuisReinoso/task-manager",
     "date": "Octubre 2024",
-    "tags": ["electron", "inteligencia artificial"]
+    "tags": ["electron", "inteligencia artificial"],
+    "stars": 2
   },
   {
     "name": "Nómada events",
@@ -135,7 +166,7 @@
     "image": "../img/proyectos/git-history-browser-extension.png",
     "url": "https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf",
     "github": "https://github.com/LuisReinoso/git-history-browser-extension",
-    "stars": 113,
+    "stars": 119,
     "date": "Febrero 2019",
     "tags": ["javascript", "browser extension"]
   },
