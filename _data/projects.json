@@ -1,5 +1,12 @@
 [
   {
+    "name": "Window Watcher",
+    "image": "../img/proyectos/window-watcher.gif",
+    "github": "https://github.com/LuisReinoso/window-watcher",
+    "date": "Marzo 2026",
+    "tags": ["shell script", "linux", "x11"]
+  },
+  {
     "name": "Manzanitos",
     "image": "../img/proyectos/administracion-comida-manzanitos.png",
     "url": "https://luisreinoso.dev/administracion-comida-manzanitos/",
@@ -31,6 +38,13 @@
     "tags": ["typescript", "inteligencia artificial", "nodejs"]
   },
   {
+    "name": "Sessions Picker",
+    "image": "../img/proyectos/sessions-picker.gif",
+    "github": "https://github.com/LuisReinoso/sessions-picker",
+    "date": "Enero 2025",
+    "tags": ["shell script", "tmux", "claude code"]
+  },
+  {
     "name": "Copy Console",
     "image": "../img/proyectos/copy-console.gif",
     "url": "https://luisreinoso.dev/copy-console-browser-extension/",
@@ -54,7 +68,8 @@
     "url": "https://luisreinoso.dev/emotional-transmutation",
     "github": "https://github.com/LuisReinoso/emotional-transmutation",
     "date": "Diciembre 2024",
-    "tags": ["inteligencia artificial"]
+    "tags": ["inteligencia artificial"],
+    "stars": 1
   },
   {
     "name": "gnome-pomodoro-music",
