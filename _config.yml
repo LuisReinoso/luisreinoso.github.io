@@ -38,6 +38,8 @@ urls:
   url: "/"
 - text: Proyectos
   url: "/project/"
+- text: Filosofía
+  url: "/filosofia/"
 - text: Tienda
   url: "/store/"
 - text: Feed
