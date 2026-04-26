@@ -1,5 +1,12 @@
 [
   {
+    "name": "Claude Study Server",
+    "image": "../img/proyectos/claude-study-server.gif",
+    "github": "https://github.com/LuisReinoso/claude-study-server",
+    "date": "Abril 2026",
+    "tags": ["typescript", "inteligencia artificial", "claude code"]
+  },
+  {
     "name": "Window Watcher",
     "image": "../img/proyectos/window-watcher.gif",
     "github": "https://github.com/LuisReinoso/window-watcher",
@@ -23,11 +30,36 @@
     "tags": ["angular", "typescript", "tailwind"]
   },
   {
+    "name": "Asamblea Abierta",
+    "image": "../img/proyectos/asamblea-abierta.gif",
+    "url": "https://luisreinoso.dev/asamblea-abierta",
+    "github": "https://github.com/LuisReinoso/asamblea-abierta",
+    "date": "Enero 2026",
+    "tags": ["python", "inteligencia artificial"],
+    "stars": 1
+  },
+  {
+    "name": "Law of One Illustrated",
+    "image": "../img/proyectos/law-of-one-illustrated.gif",
+    "github": "https://github.com/LuisReinoso/law-of-one-illustrated",
+    "date": "Diciembre 2025",
+    "tags": ["python", "inteligencia artificial"]
+  },
+  {
+    "name": "Scoop Shop Tracker",
+    "image": "../img/proyectos/scoop-shop-tracker.gif",
+    "url": "https://luisreinoso.dev/scoop-shop-tracker/",
+    "github": "https://github.com/LuisReinoso/scoop-shop-tracker",
+    "date": "Mayo 2025",
+    "tags": ["typescript", "angular"]
+  },
+  {
     "name": "Obsidian Speed Reading",
     "image": "../img/proyectos/obsidian-speed-reading.gif",
     "github": "https://github.com/LuisReinoso/obsidian-speed-reading",
     "date": "Abril 2025",
-    "tags": ["typescript", "obsidian"]
+    "tags": ["typescript", "obsidian"],
+    "stars": 3
   },
   {
     "name": "What Is My Tech Stack",
@@ -60,7 +92,7 @@
     "github": "https://github.com/luisreinoso/github-stars-semantic-search",
     "date": "Diciembre 2024",
     "tags": ["inteligencia artificial"],
-    "stars": "63"
+    "stars": "64"
   },
   {
     "name": "Emotional Transmutation",
@@ -98,8 +130,18 @@
     "name": "family-talk",
     "image": "../img/proyectos/family-talk.gif",
     "url": "https://family-talk-jr-home.web.app/",
+    "github": "https://github.com/LuisReinoso/family-talk",
     "date": "Enero 2023",
     "tags": ["angular", "inteligencia artificial"]
+  },
+  {
+    "name": "ng-error-fixer-vscode",
+    "image": "../img/proyectos/ng-error-fixer-vscode.gif",
+    "url": "https://marketplace.visualstudio.com/items?itemName=luisreinosodev.ng-error-fixer-vscode",
+    "github": "https://github.com/LuisReinoso/ng-error-fixer-vscode",
+    "date": "Agosto 2021",
+    "tags": ["angular", "typescript", "vscode"],
+    "stars": 1
   },
   {
     "name": "jest-argos-gnome-extension",
@@ -198,7 +240,8 @@
     "url": "https://luisreinoso.github.io/ngx-changelog",
     "github": "https://github.com/luisreinoso/ngx-changelog",
     "date": "Septiembre 2018",
-    "tags": ["angular", "nodejs", "javascript"]
+    "tags": ["angular", "nodejs", "javascript"],
+    "stars": 1
   },
   {
     "name": "Waterline Query Parser",
