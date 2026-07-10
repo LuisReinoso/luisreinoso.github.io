@@ -1,17 +1,51 @@
 [
   {
+    "name": "Study RAG Server",
+    "image": "../img/proyectos/study-rag-server.gif",
+    "github": "https://github.com/LuisReinoso/study-rag-server",
+    "date": "Julio 2026",
+    "tags": [
+      "rag",
+      "llm",
+      "modelos abiertos",
+      "typescript",
+      "self-hosted"
+    ]
+  },
+  {
+    "name": "Obsidian Study RAG",
+    "image": "../img/proyectos/obsidian-study-rag.gif",
+    "github": "https://github.com/LuisReinoso/obsidian-study-rag",
+    "date": "Julio 2026",
+    "tags": [
+      "obsidian",
+      "rag",
+      "llm",
+      "typescript"
+    ]
+  },
+  {
     "name": "Claude Study Server",
     "image": "../img/proyectos/claude-study-server.gif",
     "github": "https://github.com/LuisReinoso/claude-study-server",
     "date": "Abril 2026",
-    "tags": ["typescript", "inteligencia artificial", "claude code"]
+    "tags": [
+      "typescript",
+      "inteligencia artificial",
+      "modelos abiertos",
+      "ollama"
+    ]
   },
   {
     "name": "Window Watcher",
     "image": "../img/proyectos/window-watcher.gif",
     "github": "https://github.com/LuisReinoso/window-watcher",
     "date": "Marzo 2026",
-    "tags": ["shell script", "linux", "x11"]
+    "tags": [
+      "shell script",
+      "linux",
+      "x11"
+    ]
   },
   {
     "name": "Manzanitos",
@@ -19,7 +53,10 @@
     "url": "https://luisreinoso.dev/administracion-comida-manzanitos/",
     "github": "https://github.com/LuisReinoso/administracion-comida-manzanitos",
     "date": "Marzo 2026",
-    "tags": ["pwa", "javascript"]
+    "tags": [
+      "pwa",
+      "javascript"
+    ]
   },
   {
     "name": "Budget Builder",
@@ -27,7 +64,11 @@
     "url": "https://budget-builder-delta.vercel.app/",
     "github": "https://github.com/LuisReinoso/budget-builder",
     "date": "Enero 2026",
-    "tags": ["angular", "typescript", "tailwind"]
+    "tags": [
+      "angular",
+      "typescript",
+      "tailwind"
+    ]
   },
   {
     "name": "Asamblea Abierta",
@@ -35,7 +76,10 @@
     "url": "https://luisreinoso.dev/asamblea-abierta",
     "github": "https://github.com/LuisReinoso/asamblea-abierta",
     "date": "Enero 2026",
-    "tags": ["python", "inteligencia artificial"],
+    "tags": [
+      "python",
+      "inteligencia artificial"
+    ],
     "stars": 1
   },
   {
@@ -43,7 +87,10 @@
     "image": "../img/proyectos/law-of-one-illustrated.gif",
     "github": "https://github.com/LuisReinoso/law-of-one-illustrated",
     "date": "Diciembre 2025",
-    "tags": ["python", "inteligencia artificial"]
+    "tags": [
+      "python",
+      "inteligencia artificial"
+    ]
   },
   {
     "name": "Scoop Shop Tracker",
@@ -51,14 +98,20 @@
     "url": "https://luisreinoso.dev/scoop-shop-tracker/",
     "github": "https://github.com/LuisReinoso/scoop-shop-tracker",
     "date": "Mayo 2025",
-    "tags": ["typescript", "angular"]
+    "tags": [
+      "typescript",
+      "angular"
+    ]
   },
   {
     "name": "Obsidian Speed Reading",
     "image": "../img/proyectos/obsidian-speed-reading.gif",
     "github": "https://github.com/LuisReinoso/obsidian-speed-reading",
     "date": "Abril 2025",
-    "tags": ["typescript", "obsidian"],
+    "tags": [
+      "typescript",
+      "obsidian"
+    ],
     "stars": 3
   },
   {
@@ -67,14 +120,22 @@
     "url": "https://www.npmjs.com/package/what-is-my-tech-stack",
     "github": "https://github.com/LuisReinoso/what-is-my-tech-stack",
     "date": "Febrero 2025",
-    "tags": ["typescript", "inteligencia artificial", "nodejs"]
+    "tags": [
+      "typescript",
+      "inteligencia artificial",
+      "nodejs"
+    ]
   },
   {
     "name": "Sessions Picker",
     "image": "../img/proyectos/sessions-picker.gif",
     "github": "https://github.com/LuisReinoso/sessions-picker",
     "date": "Enero 2025",
-    "tags": ["shell script", "tmux", "claude code"]
+    "tags": [
+      "shell script",
+      "tmux",
+      "claude code"
+    ]
   },
   {
     "name": "Copy Console",
@@ -82,7 +143,9 @@
     "url": "https://luisreinoso.dev/copy-console-browser-extension/",
     "github": "https://github.com/LuisReinoso/copy-console-browser-extension",
     "date": "Enero 2025",
-    "tags": ["browser extension"],
+    "tags": [
+      "browser extension"
+    ],
     "stars": "2"
   },
   {
@@ -91,7 +154,9 @@
     "url": "https://luisreinoso.dev/github-stars-semantic-search",
     "github": "https://github.com/luisreinoso/github-stars-semantic-search",
     "date": "Diciembre 2024",
-    "tags": ["inteligencia artificial"],
+    "tags": [
+      "inteligencia artificial"
+    ],
     "stars": "64"
   },
   {
@@ -100,7 +165,9 @@
     "url": "https://luisreinoso.dev/emotional-transmutation",
     "github": "https://github.com/LuisReinoso/emotional-transmutation",
     "date": "Diciembre 2024",
-    "tags": ["inteligencia artificial"],
+    "tags": [
+      "inteligencia artificial"
+    ],
     "stars": 1
   },
   {
@@ -108,7 +175,10 @@
     "image": "../img/proyectos/pomodoro-config.png",
     "github": "https://github.com/LuisReinoso/gnome-pomodoro-music",
     "date": "Diciembre 2024",
-    "tags": ["shell script", "linux"]
+    "tags": [
+      "shell script",
+      "linux"
+    ]
   },
   {
     "name": "Task Manager",
@@ -116,7 +186,10 @@
     "url": "https://github.com/LuisReinoso/task-manager",
     "github": "https://github.com/LuisReinoso/task-manager",
     "date": "Octubre 2024",
-    "tags": ["electron", "inteligencia artificial"],
+    "tags": [
+      "electron",
+      "inteligencia artificial"
+    ],
     "stars": 2
   },
   {
@@ -124,7 +197,10 @@
     "image": "../img/proyectos/nomada-events.gif",
     "url": "https://nomada.events/",
     "date": "Diciembre 2023",
-    "tags": ["supabase", "inteligencia artificial"]
+    "tags": [
+      "supabase",
+      "inteligencia artificial"
+    ]
   },
   {
     "name": "family-talk",
@@ -132,7 +208,10 @@
     "url": "https://family-talk-jr-home.web.app/",
     "github": "https://github.com/LuisReinoso/family-talk",
     "date": "Enero 2023",
-    "tags": ["angular", "inteligencia artificial"]
+    "tags": [
+      "angular",
+      "inteligencia artificial"
+    ]
   },
   {
     "name": "ng-error-fixer-vscode",
@@ -140,7 +219,11 @@
     "url": "https://marketplace.visualstudio.com/items?itemName=luisreinosodev.ng-error-fixer-vscode",
     "github": "https://github.com/LuisReinoso/ng-error-fixer-vscode",
     "date": "Agosto 2021",
-    "tags": ["angular", "typescript", "vscode"],
+    "tags": [
+      "angular",
+      "typescript",
+      "vscode"
+    ],
     "stars": 1
   },
   {
@@ -148,7 +231,11 @@
     "image": "../img/proyectos/jest-argos-gnome-extension.gif",
     "github": "https://github.com/LuisReinoso/jest-argos-gnome-extension",
     "date": "Enero 2021",
-    "tags": ["shell script", "jest", "linux"]
+    "tags": [
+      "shell script",
+      "jest",
+      "linux"
+    ]
   },
   {
     "name": "vscode-ng-file-switcher",
@@ -156,7 +243,11 @@
     "url": "https://marketplace.visualstudio.com/items?itemName=luisreinosodev.vscode-ng-file-switcher",
     "github": "https://github.com/LuisReinoso/vscode-ng-file-switcher",
     "date": "Enero 2021",
-    "tags": ["angular", "typescript", "vscode"]
+    "tags": [
+      "angular",
+      "typescript",
+      "vscode"
+    ]
   },
   {
     "name": "ng-filename-parser",
@@ -164,14 +255,21 @@
     "url": "https://www.npmjs.com/package/ng-filename-parser",
     "github": "https://github.com/LuisReinoso/ng-filename-parser",
     "date": "Enero 2021",
-    "tags": ["angular", "typescript"]
+    "tags": [
+      "angular",
+      "typescript"
+    ]
   },
   {
     "name": "Open mercadito",
     "image": "../img/proyectos/open-mercadito-app.gif",
     "url": "https://open-mercadito-app.web.app/",
     "date": "Octubre 2020",
-    "tags": ["angular", "typescript", "firebase"]
+    "tags": [
+      "angular",
+      "typescript",
+      "firebase"
+    ]
   },
   {
     "name": "covid-19-community-tracker",
@@ -180,7 +278,11 @@
     "github": "https://github.com/LuisReinoso/covid-19-community-tracker",
     "stars": 1,
     "date": "Marzo 2020",
-    "tags": ["angular", "typescript", "firebase"]
+    "tags": [
+      "angular",
+      "typescript",
+      "firebase"
+    ]
   },
   {
     "name": "ng-stories-schematics",
@@ -189,7 +291,10 @@
     "github": "https://github.com/LuisReinoso/ng-stories-schematics",
     "stars": 1,
     "date": "Marzo 2020",
-    "tags": ["angular", "typescript"]
+    "tags": [
+      "angular",
+      "typescript"
+    ]
   },
   {
     "name": "upload-file-cli",
@@ -198,7 +303,10 @@
     "github": "https://github.com/LuisReinoso/upload-file-cli",
     "stars": 2,
     "date": "Septiembre 2019",
-    "tags": ["nodejs", "javascript"]
+    "tags": [
+      "nodejs",
+      "javascript"
+    ]
   },
   {
     "name": "css-selector-game",
@@ -206,7 +314,11 @@
     "github": "https://github.com/LuisReinoso/css-selector-game",
     "stars": 2,
     "date": "Agosto 2019",
-    "tags": ["nodejs", "javascript", "svelte"]
+    "tags": [
+      "nodejs",
+      "javascript",
+      "svelte"
+    ]
   },
   {
     "name": "CLI Text-To-Speech Watson",
@@ -215,7 +327,10 @@
     "github": "https://github.com/LuisReinoso/tts-watson",
     "stars": 1,
     "date": "Marzo 2019",
-    "tags": ["nodejs", "javascript"]
+    "tags": [
+      "nodejs",
+      "javascript"
+    ]
   },
   {
     "name": "Browser Extensión",
@@ -224,7 +339,10 @@
     "github": "https://github.com/LuisReinoso/git-history-browser-extension",
     "stars": 119,
     "date": "Febrero 2019",
-    "tags": ["javascript", "browser extension"]
+    "tags": [
+      "javascript",
+      "browser extension"
+    ]
   },
   {
     "name": "Plazas rural ec",
@@ -232,7 +350,11 @@
     "github": "https://github.com/LuisReinoso/plazas-rural-ec",
     "stars": 1,
     "date": "Diciembre 2018",
-    "tags": ["angular", "nodejs", "sailsjs"]
+    "tags": [
+      "angular",
+      "nodejs",
+      "sailsjs"
+    ]
   },
   {
     "name": "ngx-changelog",
@@ -240,7 +362,11 @@
     "url": "https://luisreinoso.github.io/ngx-changelog",
     "github": "https://github.com/luisreinoso/ngx-changelog",
     "date": "Septiembre 2018",
-    "tags": ["angular", "nodejs", "javascript"],
+    "tags": [
+      "angular",
+      "nodejs",
+      "javascript"
+    ],
     "stars": 1
   },
   {
@@ -250,14 +376,20 @@
     "github": "https://github.com/LuisReinoso/waterline-query-language-parser",
     "stars": 1,
     "date": "Junio 2018",
-    "tags": ["nodejs", "sailsjs", "javascript"]
+    "tags": [
+      "nodejs",
+      "sailsjs",
+      "javascript"
+    ]
   },
   {
     "name": "time-to-days",
     "image": "../img/proyectos/time-to-days.png",
     "github": "https://github.com/LuisReinoso/time-to-days",
     "date": "Junio 2018",
-    "tags": ["javascript"]
+    "tags": [
+      "javascript"
+    ]
   },
   {
     "name": "bitmask",
@@ -265,7 +397,10 @@
     "url": null,
     "github": "https://github.com/LuisReinoso/Bitmask",
     "date": "Abril 2018",
-    "tags": ["javascript", "typescript"]
+    "tags": [
+      "javascript",
+      "typescript"
+    ]
   },
   {
     "name": "generator-angular-sails",
@@ -273,14 +408,20 @@
     "url": null,
     "github": "https://github.com/LuisReinoso/generator-angular-sails",
     "date": "Febrero 2018",
-    "tags": ["javascript", "angular"]
+    "tags": [
+      "javascript",
+      "angular"
+    ]
   },
   {
     "name": "Generador de horarios",
     "image": "../img/proyectos/generadorHorarioEstudiante.png",
     "github": "https://github.com/LuisReinoso/GeneradorHorarioEstudiante",
     "date": "Marzo 2016",
-    "tags": ["java", "inteligencia artificial"]
+    "tags": [
+      "java",
+      "inteligencia artificial"
+    ]
   },
   {
     "name": "Battery Alert",
@@ -288,6 +429,9 @@
     "url": null,
     "github": "https://github.com/LuisReinoso/BatteryAlert",
     "date": "Agosto 2015",
-    "tags": ["shell script", "linux"]
+    "tags": [
+      "shell script",
+      "linux"
+    ]
   }
 ]
