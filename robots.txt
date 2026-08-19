@@ -9,3 +9,4 @@ Allow: /
 Disallow: /asamblea-abierta/data/
 
 Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: {{ site.url }}/asamblea-abierta/sitemap.xml
