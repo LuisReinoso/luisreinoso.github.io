@@ -1,5 +1,5 @@
 ---
-title: Consume a Github api in javascript using sailsjs
+title: "Consume an API from another API with Sails.js and fetch"
 date: 2018-11-25 00:00:00 Z
 categories:
 - sailsjs
@@ -8,7 +8,7 @@ tags:
 - sailsjs
 - fetch
 layout: post
-description: Use sailjs to provide an api to consume another api
+description: "Step by step: create a Sails.js API that calls the GitHub API with fetch and returns the result. From the empty project to the working endpoint."
 ---
 
 This is a solution for a little test that I do.

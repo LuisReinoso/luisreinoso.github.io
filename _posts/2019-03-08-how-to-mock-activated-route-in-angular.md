@@ -1,5 +1,5 @@
 ---
-title: How to mock ActivatedRoute in Angular
+title: "Mock ActivatedRoute in Angular tests: params and queryParams"
 date: 2019-03-08 00:00:00 Z
 redirect_from:
 - "/angular/2019/03/08/how-to-mock-activated-route-in-angular.html"
@@ -22,7 +22,7 @@ tags:
 - mock use value
 - No provider for ActivatedRoute
 layout: post
-description: Angular Testing learn how to mock a common use of ActivatedRoute
+description: "Fix the 'No provider for ActivatedRoute' error in your unit tests. Working example that mocks params and queryParams so the component reads the URL as it does in production."
 ---
 
 Example applied to **queryParams** and **params** of ActivatedRoute

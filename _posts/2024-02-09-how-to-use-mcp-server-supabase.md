@@ -1,5 +1,5 @@
 ---
-title: Cómo utilizar MCP Server con Supabase y Cursor
+title: "Supabase MCP en Cursor: conectar tu base de datos al agente"
 date: 2024-02-09 19:46:00 -05:00
 permalink: "/how-to-use-mcp-server-supabase/"
 categories:
@@ -22,6 +22,7 @@ tags:
 - query string
 - postgres
 - mcp server
+description: "Cómo conectar Supabase a Cursor con MCP Server, paso a paso: clonar el servidor, la cadena de conexión de Postgres y consultar tu base desde Composer en modo agente."
 layout: post
 ---
 

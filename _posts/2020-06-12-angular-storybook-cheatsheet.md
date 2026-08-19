@@ -1,12 +1,12 @@
 ---
-title: Angular storybook cheatsheet
+title: "Angular Storybook cheatsheet: stories, inputs and modules"
 date: 2020-06-12 00:00:00 Z
 categories:
 - angular
 tags:
 - angular
 layout: post
-description: Quickly reference how to use angular story book
+description: "Copy and paste reference for Storybook in Angular: component stories, inputs and outputs, moduleMetadata for imports, and the setup that trips people up the first time."
 ---
 
 ## Installation
