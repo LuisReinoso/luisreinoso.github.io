@@ -1,6 +1,8 @@
 ---
 title: How to mock ActivatedRoute in Angular
 date: 2019-03-08 00:00:00 Z
+redirect_from:
+- "/angular/2019/03/08/how-to-mock-activated-route-in-angular.html"
 categories:
 - angular
 tags:

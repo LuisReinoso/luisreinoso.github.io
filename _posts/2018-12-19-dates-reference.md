@@ -1,6 +1,8 @@
 ---
 title: Date Object - Referencia
 date: 2018-12-19 00:00:00 Z
+redirect_from:
+- "/javascript/2018/12/19/dates-reference.html"
 categories:
 - javascript
 tags:

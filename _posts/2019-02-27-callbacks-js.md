@@ -1,6 +1,8 @@
 ---
 title: 'callbacks: ejemplo mundo real lodash - findIndex'
 date: 2019-02-27 00:00:00 Z
+redirect_from:
+- "/javascript/learn from source code/2019/02/27/callbacks-js.html"
 categories:
 - javascript
 - learn from source code

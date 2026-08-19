@@ -16,8 +16,16 @@ plugins:
 - jekyll-paginate
 - jekyll-gist
 - jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-redirect-from
 - jemoji
 - jekyll-gensocial
+defaults:
+- scope:
+    path: category
+  values:
+    noindex: true
+    sitemap: false
 description: Blog personal de Luis Reinoso
 author: Luis Reinoso
 github: https://github.com/luisreinoso

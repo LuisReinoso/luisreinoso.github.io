@@ -1,0 +1,11 @@
+---
+layout:
+sitemap: false
+---
+User-agent: *
+Allow: /
+
+# Datos que alimentan la app, no son páginas
+Disallow: /asamblea-abierta/data/
+
+Sitemap: {{ site.url }}/sitemap.xml

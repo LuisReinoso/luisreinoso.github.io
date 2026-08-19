@@ -42,6 +42,9 @@ layout: default
     			<h3 class="project-headlines">{{ i.name }}</h3>
     			{% if p_url %} </a> {% endif %}
     			<div class="project-content">
+    				{% if i.description %}
+    				<p class="project-description">{{ i.description }}</p>
+    				{% endif %}
     				<div class="tag-holder">
     				{% if i.tags %}
     					{% for j in i.tags %}

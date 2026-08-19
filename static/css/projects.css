@@ -21,6 +21,12 @@ h3.project-headlines {
     font-size: 20px;
     height: 45px;
 }
+p.project-description {
+    margin: 0 0 8px;
+    font-size: 13px;
+    line-height: 1.4;
+    color: #555;
+}
 span.tags {
     font-size: 10px;
     border-bottom: 1px #888 dotted;

@@ -1,6 +1,8 @@
 ---
 title: How to create an APK from PWA?
 date: 2020-06-21 00:00:00 Z
+redirect_from:
+- "/PWA/2020/06/21/how-to-create-APK-from-PWA.html"
 categories:
 - PWA
 tags:

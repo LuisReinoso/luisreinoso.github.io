@@ -1,6 +1,7 @@
 [
   {
     "name": "Firesite",
+    "description": "Dónde poner una cámara de detección de incendios, calculado con 15 años de historial de fuego de NASA FIRMS.",
     "image": "../img/proyectos/firesite.gif",
     "url": "https://luisreinoso.dev/firesite/",
     "github": "https://github.com/LuisReinoso/firesite",
@@ -13,6 +14,7 @@
   },
   {
     "name": "Mi Derecho Vial",
+    "description": "La ley de tránsito del Ecuador en la mano durante un control, con expediente de evidencia listo para el abogado. Funciona sin internet.",
     "image": "../img/proyectos/mi-derecho-vial.gif",
     "url": "https://luisreinoso.dev/mi-derecho-vial/",
     "github": "https://github.com/LuisReinoso/mi-derecho-vial",
@@ -25,6 +27,7 @@
   },
   {
     "name": "qnnkit",
+    "description": "Inferencia raw-QNN reutilizable para Android: corre tus modelos en la NPU Hexagon de Qualcomm, sin servidor y sin conexión.",
     "image": "../img/proyectos/qnnkit.gif",
     "github": "https://github.com/LuisReinoso/qnnkit",
     "date": "Julio 2026",
@@ -38,6 +41,7 @@
   },
   {
     "name": "Awesome Ecuador",
+    "description": "Lista curada de comunidades, proyectos open source, gobierno abierto y eventos del ecosistema tech ecuatoriano.",
     "image": "../img/proyectos/awesome-ecuador.gif",
     "github": "https://github.com/LuisReinoso/awesome-ecuador",
     "date": "Julio 2026",
@@ -50,6 +54,7 @@
   },
   {
     "name": "Study RAG Server",
+    "description": "RAG para preguntarle a tus notas. Autoalojado, solo modelos abiertos (llama.cpp u Ollama), con LLM y vector store intercambiables.",
     "image": "../img/proyectos/study-rag-server.gif",
     "github": "https://github.com/LuisReinoso/study-rag-server",
     "date": "Julio 2026",
@@ -63,6 +68,7 @@
   },
   {
     "name": "Obsidian Study RAG",
+    "description": "Plugin de Obsidian para consultar tu bóveda contra el servidor de RAG autoalojado.",
     "image": "../img/proyectos/obsidian-study-rag.gif",
     "github": "https://github.com/LuisReinoso/obsidian-study-rag",
     "date": "Julio 2026",
@@ -75,6 +81,7 @@
   },
   {
     "name": "RustDesk Self-Hosted Toolkit",
+    "description": "Scripts para montar y depurar un servidor RustDesk propio sobre Tailscale, con instalador de cliente que detecta la glibc.",
     "image": "../img/proyectos/rustdesk-toolkit.gif",
     "github": "https://github.com/LuisReinoso/rustdesk-selfhosted-toolkit",
     "date": "Junio 2026",
@@ -86,6 +93,7 @@
   },
   {
     "name": "GPU Model Autoscaler",
+    "description": "Autoescalado de GPU para inferencia LLM autoalojada: proxy en Go hacia workers vLLM que suben y bajan según la carga.",
     "image": "../img/proyectos/gpu-model-autoscaler.gif",
     "github": "https://github.com/LuisReinoso/gpu-model-autoscaler",
     "date": "Junio 2026",
@@ -97,6 +105,7 @@
   },
   {
     "name": "ENIGHUR 2024-2025",
+    "description": "Análisis reproducible de la encuesta de hogares: por qué el ingreso promedio de $1.135 no describe al hogar ecuatoriano típico.",
     "image": "../img/proyectos/enighur.gif",
     "url": "https://luisreinoso.dev/enighur-2025-analisis/",
     "github": "https://github.com/LuisReinoso/enighur-2025-analisis",
@@ -109,6 +118,7 @@
   },
   {
     "name": "Study Server",
+    "description": "Backend autoalojado que genera resúmenes, flashcards y preguntas de quiz para apps de estudio.",
     "image": "../img/proyectos/study-server.gif",
     "github": "https://github.com/LuisReinoso/study-server",
     "date": "Abril 2026",
@@ -121,6 +131,7 @@
   },
   {
     "name": "Window Watcher",
+    "description": "Mueve cada ventana nueva al escritorio desde el que la lanzaste. Cero CPU en reposo, reacciona a eventos de X11.",
     "image": "../img/proyectos/window-watcher.gif",
     "github": "https://github.com/LuisReinoso/window-watcher",
     "date": "Marzo 2026",
@@ -132,6 +143,7 @@
   },
   {
     "name": "Manzanitos",
+    "description": "Control de caducidad de alimentos como PWA, usando Todoist de backend.",
     "image": "../img/proyectos/administracion-comida-manzanitos.png",
     "url": "https://luisreinoso.dev/administracion-comida-manzanitos/",
     "github": "https://github.com/LuisReinoso/administracion-comida-manzanitos",
@@ -143,6 +155,7 @@
   },
   {
     "name": "Budget Builder",
+    "description": "Presupuesto personal en Angular con Signals y Tailwind, manejado como una hoja de cálculo.",
     "image": "../img/proyectos/budget-builder.png",
     "url": "https://budget-builder-delta.vercel.app/",
     "github": "https://github.com/LuisReinoso/budget-builder",
@@ -155,6 +168,7 @@
   },
   {
     "name": "Asamblea Abierta",
+    "description": "Plataforma de transparencia de la Asamblea Nacional: transcripción con IA e identificación de quién habla.",
     "image": "../img/proyectos/asamblea-abierta.gif",
     "url": "https://luisreinoso.dev/asamblea-abierta",
     "github": "https://github.com/LuisReinoso/asamblea-abierta",
@@ -167,6 +181,7 @@
   },
   {
     "name": "Law of One Illustrated",
+    "description": "Libros ilustrados que explican los conceptos del material de Ra para aprenderlos visualmente.",
     "image": "../img/proyectos/law-of-one-illustrated.gif",
     "github": "https://github.com/LuisReinoso/law-of-one-illustrated",
     "date": "Diciembre 2025",
@@ -177,6 +192,7 @@
   },
   {
     "name": "Scoop Shop Tracker",
+    "description": "Gestión de una heladería: inventario, ventas y control de sabores.",
     "image": "../img/proyectos/scoop-shop-tracker.gif",
     "url": "https://luisreinoso.dev/scoop-shop-tracker/",
     "github": "https://github.com/LuisReinoso/scoop-shop-tracker",
@@ -188,6 +204,7 @@
   },
   {
     "name": "Obsidian Speed Reading",
+    "description": "Lector RSVP para Obsidian con práctica de recuperación, rachas y conexión con las herramientas de estudio.",
     "image": "../img/proyectos/obsidian-speed-reading.gif",
     "github": "https://github.com/LuisReinoso/obsidian-speed-reading",
     "date": "Abril 2025",
@@ -199,6 +216,7 @@
   },
   {
     "name": "What Is My Tech Stack",
+    "description": "CLI que analiza el stack de un proyecto y lo resume. Útil para el CV y la documentación.",
     "image": "../img/proyectos/what-is-my-tech-stack.gif",
     "url": "https://www.npmjs.com/package/what-is-my-tech-stack",
     "github": "https://github.com/LuisReinoso/what-is-my-tech-stack",
@@ -211,6 +229,7 @@
   },
   {
     "name": "Sessions Picker",
+    "description": "Scripts para manejar sesiones de Claude Code desde el celular por SSH.",
     "image": "../img/proyectos/sessions-picker.gif",
     "github": "https://github.com/LuisReinoso/sessions-picker",
     "date": "Enero 2025",
@@ -222,6 +241,7 @@
   },
   {
     "name": "Copy Console",
+    "description": "Captura y copia los logs de la consola con búsqueda por patrones. Firefox y Chrome.",
     "image": "../img/proyectos/copy-console.gif",
     "url": "https://luisreinoso.dev/copy-console-browser-extension/",
     "github": "https://github.com/LuisReinoso/copy-console-browser-extension",
@@ -233,6 +253,7 @@
   },
   {
     "name": "GitHub Stars Semantic Search",
+    "description": "Encuentra entre tus estrellas de GitHub con búsqueda en lenguaje natural.",
     "image": "../img/proyectos/github-stars-rag.png",
     "url": "https://luisreinoso.dev/github-stars-semantic-search",
     "github": "https://github.com/luisreinoso/github-stars-semantic-search",
@@ -244,6 +265,7 @@
   },
   {
     "name": "Emotional Transmutation",
+    "description": "Transforma emociones negativas aplicando los principios herméticos de polaridad y ritmo.",
     "image": "../img/proyectos/emotional-transmutation.gif",
     "url": "https://luisreinoso.dev/emotional-transmutation",
     "github": "https://github.com/LuisReinoso/emotional-transmutation",
@@ -255,6 +277,7 @@
   },
   {
     "name": "gnome-pomodoro-music",
+    "description": "Pone música durante los pomodoros y los descansos en gnome-pomodoro.",
     "image": "../img/proyectos/pomodoro-config.png",
     "github": "https://github.com/LuisReinoso/gnome-pomodoro-music",
     "date": "Diciembre 2024",
@@ -265,6 +288,7 @@
   },
   {
     "name": "Task Manager",
+    "description": "Generador de subtareas para seguirlas una por una.",
     "image": "../img/proyectos/task-manager.gif",
     "url": "https://github.com/LuisReinoso/task-manager",
     "github": "https://github.com/LuisReinoso/task-manager",
@@ -277,6 +301,7 @@
   },
   {
     "name": "Nómada events",
+    "description": "Agenda de eventos para nómadas digitales, con datos en Supabase.",
     "image": "../img/proyectos/nomada-events.gif",
     "url": "https://nomada.events/",
     "date": "Diciembre 2023",
@@ -287,6 +312,7 @@
   },
   {
     "name": "family-talk",
+    "description": "Juego de conversación para la familia, construido sobre investigación revisada por pares en psicología de vínculos.",
     "image": "../img/proyectos/family-talk.gif",
     "url": "https://family-talk-jr-home.web.app/",
     "github": "https://github.com/LuisReinoso/family-talk",
@@ -298,6 +324,7 @@
   },
   {
     "name": "ng-error-fixer-vscode",
+    "description": "Corre el CLI de ng-error-fixer desde VS Code.",
     "image": "../img/proyectos/ng-error-fixer-vscode.gif",
     "url": "https://marketplace.visualstudio.com/items?itemName=luisreinosodev.ng-error-fixer-vscode",
     "github": "https://github.com/LuisReinoso/ng-error-fixer-vscode",
@@ -311,6 +338,7 @@
   },
   {
     "name": "jest-argos-gnome-extension",
+    "description": "Muestra el resultado de los tests de Jest en la barra superior de GNOME.",
     "image": "../img/proyectos/jest-argos-gnome-extension.gif",
     "github": "https://github.com/LuisReinoso/jest-argos-gnome-extension",
     "date": "Enero 2021",
@@ -322,6 +350,7 @@
   },
   {
     "name": "vscode-ng-file-switcher",
+    "description": "Salta entre el componente, la plantilla y los estilos de un archivo Angular.",
     "image": "../img/proyectos/vscode-ng-file-switcher.gif",
     "url": "https://marketplace.visualstudio.com/items?itemName=luisreinosodev.vscode-ng-file-switcher",
     "github": "https://github.com/LuisReinoso/vscode-ng-file-switcher",
@@ -334,6 +363,7 @@
   },
   {
     "name": "ng-filename-parser",
+    "description": "Parser de la convención de nombres de archivo de Angular.",
     "image": "../img/proyectos/ng-filename-parser.png",
     "url": "https://www.npmjs.com/package/ng-filename-parser",
     "github": "https://github.com/LuisReinoso/ng-filename-parser",
@@ -345,6 +375,7 @@
   },
   {
     "name": "Open mercadito",
+    "description": "Catálogo abierto para que tiendas de barrio publiquen sus productos.",
     "image": "../img/proyectos/open-mercadito-app.gif",
     "url": "https://open-mercadito-app.web.app/",
     "date": "Octubre 2020",
@@ -356,6 +387,7 @@
   },
   {
     "name": "covid-19-community-tracker",
+    "description": "Autoreporte para saber si hay casos sospechosos cerca, sin exponer datos de nadie.",
     "image": "../img/proyectos/covid-19-community-tracker.png",
     "url": "https://community-tracker-covid-19.firebaseapp.com/",
     "github": "https://github.com/LuisReinoso/covid-19-community-tracker",
@@ -369,6 +401,7 @@
   },
   {
     "name": "ng-stories-schematics",
+    "description": "Schematics que generan las stories de Storybook en proyectos Angular.",
     "image": "../img/proyectos/ng-stories-schematics.png",
     "url": "https://www.npmjs.com/package/ng-stories-schematics",
     "github": "https://github.com/LuisReinoso/ng-stories-schematics",
@@ -381,6 +414,7 @@
   },
   {
     "name": "upload-file-cli",
+    "description": "CLI no oficial de file.io para subir archivos desde la terminal.",
     "image": "../img/proyectos/upload-file-cli.png",
     "url": "https://www.npmjs.com/package/upload-file-cli",
     "github": "https://github.com/LuisReinoso/upload-file-cli",
@@ -393,6 +427,7 @@
   },
   {
     "name": "CLI Text-To-Speech Watson",
+    "description": "Interfaz de línea de comandos para el Text To Speech de IBM Watson.",
     "image": "../img/proyectos/cli-watson.png",
     "url": null,
     "github": "https://github.com/LuisReinoso/tts-watson",
@@ -405,6 +440,7 @@
   },
   {
     "name": "Browser Extensión",
+    "description": "Añade un botón a GitHub para ver el historial de cualquier archivo.",
     "image": "../img/proyectos/git-history-browser-extension.png",
     "url": "https://chromewebstore.google.com/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf",
     "github": "https://github.com/LuisReinoso/git-history-browser-extension",
@@ -417,6 +453,7 @@
   },
   {
     "name": "Plazas rural ec",
+    "description": "Votación e información sobre las plazas del año de medicina rural.",
     "image": "../img/proyectos/plazas-rural-ec.png",
     "github": "https://github.com/LuisReinoso/plazas-rural-ec",
     "stars": 1,
@@ -429,6 +466,7 @@
   },
   {
     "name": "ngx-changelog",
+    "description": "Muestra el changelog de tu aplicación Angular en una línea de tiempo.",
     "image": "../img/proyectos/ngx-changelog.png",
     "url": "https://luisreinoso.github.io/ngx-changelog",
     "github": "https://github.com/luisreinoso/ngx-changelog",
@@ -442,6 +480,7 @@
   },
   {
     "name": "Waterline Query Parser",
+    "description": "Genera consultas de búsqueda compatibles con el lenguaje de queries de Waterline.",
     "image": "../img/proyectos/waterline-query-language-parser.png",
     "url": "https://www.npmjs.com/package/waterline-query-language-parser",
     "github": "https://github.com/LuisReinoso/waterline-query-language-parser",
@@ -455,6 +494,7 @@
   },
   {
     "name": "time-to-days",
+    "description": "Convierte horas, meses y años a días.",
     "image": "../img/proyectos/time-to-days.png",
     "github": "https://github.com/LuisReinoso/time-to-days",
     "date": "Junio 2018",
@@ -464,6 +504,7 @@
   },
   {
     "name": "bitmask",
+    "description": "Codifica datos en unos pocos dígitos.",
     "image": "../img/proyectos/bitmask.png",
     "url": null,
     "github": "https://github.com/LuisReinoso/Bitmask",
@@ -475,6 +516,7 @@
   },
   {
     "name": "generator-angular-sails",
+    "description": "Generador Yeoman de CRUD para módulos Angular sobre Sails.js.",
     "image": "../img/proyectos/generator-angular-sails.png",
     "url": null,
     "github": "https://github.com/LuisReinoso/generator-angular-sails",
@@ -486,6 +528,7 @@
   },
   {
     "name": "Generador de horarios",
+    "description": "Arma el horario óptimo del estudiante a partir de las materias posibles y sus horarios.",
     "image": "../img/proyectos/generadorHorarioEstudiante.png",
     "github": "https://github.com/LuisReinoso/GeneradorHorarioEstudiante",
     "date": "Marzo 2016",
@@ -496,6 +539,7 @@
   },
   {
     "name": "Battery Alert",
+    "description": "Avisa cuando la batería está por completar la carga.",
     "image": "../img/proyectos/batteryAlert.png",
     "url": null,
     "github": "https://github.com/LuisReinoso/BatteryAlert",
