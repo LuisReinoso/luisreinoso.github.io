@@ -1,5 +1,54 @@
 [
   {
+    "name": "Firesite",
+    "image": "../img/proyectos/firesite.gif",
+    "url": "https://luisreinoso.dev/firesite/",
+    "github": "https://github.com/LuisReinoso/firesite",
+    "date": "Agosto 2026",
+    "tags": [
+      "python",
+      "datos abiertos",
+      "mapas"
+    ]
+  },
+  {
+    "name": "Mi Derecho Vial",
+    "image": "../img/proyectos/mi-derecho-vial.gif",
+    "url": "https://luisreinoso.dev/mi-derecho-vial/",
+    "github": "https://github.com/LuisReinoso/mi-derecho-vial",
+    "date": "Agosto 2026",
+    "tags": [
+      "pwa",
+      "typescript",
+      "offline"
+    ]
+  },
+  {
+    "name": "qnnkit",
+    "image": "../img/proyectos/qnnkit.gif",
+    "github": "https://github.com/LuisReinoso/qnnkit",
+    "date": "Julio 2026",
+    "tags": [
+      "android",
+      "c++",
+      "npu",
+      "inteligencia artificial"
+    ],
+    "stars": 1
+  },
+  {
+    "name": "Awesome Ecuador",
+    "image": "../img/proyectos/awesome-ecuador.gif",
+    "github": "https://github.com/LuisReinoso/awesome-ecuador",
+    "date": "Julio 2026",
+    "tags": [
+      "ecuador",
+      "open source",
+      "comunidad"
+    ],
+    "stars": 1
+  },
+  {
     "name": "Study RAG Server",
     "image": "../img/proyectos/study-rag-server.gif",
     "github": "https://github.com/LuisReinoso/study-rag-server",
@@ -25,9 +74,43 @@
     ]
   },
   {
-    "name": "Claude Study Server",
-    "image": "../img/proyectos/claude-study-server.gif",
-    "github": "https://github.com/LuisReinoso/claude-study-server",
+    "name": "RustDesk Self-Hosted Toolkit",
+    "image": "../img/proyectos/rustdesk-toolkit.gif",
+    "github": "https://github.com/LuisReinoso/rustdesk-selfhosted-toolkit",
+    "date": "Junio 2026",
+    "tags": [
+      "shell script",
+      "linux",
+      "self-hosted"
+    ]
+  },
+  {
+    "name": "GPU Model Autoscaler",
+    "image": "../img/proyectos/gpu-model-autoscaler.gif",
+    "github": "https://github.com/LuisReinoso/gpu-model-autoscaler",
+    "date": "Junio 2026",
+    "tags": [
+      "go",
+      "llm",
+      "self-hosted"
+    ]
+  },
+  {
+    "name": "ENIGHUR 2024-2025",
+    "image": "../img/proyectos/enighur.gif",
+    "url": "https://luisreinoso.dev/enighur-2025-analisis/",
+    "github": "https://github.com/LuisReinoso/enighur-2025-analisis",
+    "date": "Mayo 2026",
+    "tags": [
+      "python",
+      "datos abiertos",
+      "ecuador"
+    ]
+  },
+  {
+    "name": "Study Server",
+    "image": "../img/proyectos/study-server.gif",
+    "github": "https://github.com/LuisReinoso/study-server",
     "date": "Abril 2026",
     "tags": [
       "typescript",
@@ -80,7 +163,7 @@
       "python",
       "inteligencia artificial"
     ],
-    "stars": 1
+    "stars": 2
   },
   {
     "name": "Law of One Illustrated",
@@ -157,7 +240,7 @@
     "tags": [
       "inteligencia artificial"
     ],
-    "stars": "64"
+    "stars": 65
   },
   {
     "name": "Emotional Transmutation",
@@ -190,7 +273,7 @@
       "electron",
       "inteligencia artificial"
     ],
-    "stars": 2
+    "stars": 1
   },
   {
     "name": "Nómada events",
@@ -306,18 +389,6 @@
     "tags": [
       "nodejs",
       "javascript"
-    ]
-  },
-  {
-    "name": "css-selector-game",
-    "image": "../img/proyectos/css-selector-game.png",
-    "github": "https://github.com/LuisReinoso/css-selector-game",
-    "stars": 2,
-    "date": "Agosto 2019",
-    "tags": [
-      "nodejs",
-      "javascript",
-      "svelte"
     ]
   },
   {
