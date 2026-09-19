@@ -1,5 +1,19 @@
 [
   {
+    "name": "Vibración",
+    "description": "Cimática en el navegador: pones música y ves el patrón que forma el agua. Dos simulaciones lado a lado, modos de Chladni sobre placa seca y ondas de Faraday en líquido, porque los videos de cimática suelen confundirlas. Todo en WebGL2, sin paso de build ni servidor.",
+    "image": "../img/proyectos/vibracion.gif",
+    "url": "https://luisreinoso.dev/vibracion/",
+    "github": "https://github.com/LuisReinoso/vibracion",
+    "date": "Agosto 2026",
+    "tags": [
+      "javascript",
+      "webgl",
+      "audio",
+      "simulación"
+    ]
+  },
+  {
     "name": "Firesite",
     "description": "Dónde poner una cámara de detección de incendios, calculado con 15 años de historial de fuego de NASA FIRMS.",
     "image": "../img/proyectos/firesite.gif",
@@ -249,7 +263,7 @@
     "tags": [
       "browser extension"
     ],
-    "stars": "2"
+    "stars": 2
   },
   {
     "name": "GitHub Stars Semantic Search",
